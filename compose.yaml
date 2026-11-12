@@ -1,0 +1,29 @@
+# Two containers: the AI model (ollama) and this project's scripts (app).
+# Start the model:   docker compose up -d ollama
+# Run the project:   docker compose run --rm app
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "127.0.0.1:11434:11434"      # reachable from this computer only
+    volumes:
+      - ollama-models:/root/.ollama  # keeps the ~5 GB model between runs
+    deploy:
+      resources:
+        reservations:
+          devices:                   # gives the container your NVIDIA graphics card
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+  app:
+    build: .
+    profiles: ["run"]                # only starts when you ask for it
+    depends_on: [ollama]
+    environment:
+      OLLAMA_URL: http://ollama:11434
+    volumes:
+      - ./output:/app/output
+      - ./data:/app/data
+      - ./config.toml:/app/config.toml:ro
+volumes:
+  ollama-models:

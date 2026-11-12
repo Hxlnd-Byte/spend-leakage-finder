@@ -1,0 +1,31 @@
+contract_id,vendor_name,current_term_end,notice_deadline,status,annual_value_usd
+C-001,Bluepeak Cloud Hosting FZ-LLC,2027-02-28,2026-11-30,ACT_NOW,180777.36
+C-002,Karam Office Supplies LLC,2026-12-31,,NONE,45600.0
+C-003,Meridian Cleaning Services LLC,2027-08-31,2027-07-02,NONE,249719.76
+C-004,Quillbase Software Ltd,2027-03-31,2026-12-31,ACT_NOW,210174.0
+C-005,Tessera CRM Systems Ltd,2027-06-30,2027-05-01,NONE,67095.6
+C-006,Orbix Endpoint Security Inc,2027-01-31,2026-11-02,LOCKED_IN,70560.0
+C-007,Lumen HR Software Ltd,2028-08-31,2028-06-02,NONE,46368.0
+C-008,PrintWorks Managed Print LLC,2027-10-31,,NONE,76800.0
+C-009,Falcon Security Guarding LLC,2026-12-31,2026-10-02,LOCKED_IN,481224.96
+C-010,Cobalt Facilities Maintenance LLC,2026-08-31,,NONE,127849.08
+C-011,Swiftline Courier Services LLC,2027-02-28,2027-01-29,ACT_NOW,27600.0
+C-012,NetAxis Telecom PJSC,2027-03-31,2026-12-31,ACT_NOW,200508.0
+C-013,Gulfstream Internet Services LLC,2027-05-31,,NONE,70800.0
+C-014,Greenleaf Landscaping LLC,2026-06-30,,NONE,27379.2
+C-015,Safeguard Pest Control LLC,2026-12-31,2026-11-01,LOCKED_IN,5920.0
+C-016,AquaPure Water Systems LLC,2028-05-31,,NONE,13800.0
+C-017,CleanSweep Waste Management LLC,2027-08-31,2027-06-02,NONE,52196.28
+C-018,Atlas Vehicle Leasing LLC,2028-09-30,,NONE,131040.0
+C-019,Prism Learning Ltd,2026-11-30,2026-10-01,LOCKED_IN,57600.0
+C-020,Ledgerline Audit Support LLC,2026-11-14,,NONE,36000.0
+C-021,Northgate Insurance Brokers LLC,2027-03-14,2026-12-14,ACT_NOW,23339.8
+C-022,Vertex Fire Safety LLC,2027-04-30,2027-03-01,NONE,8277.42
+C-023,Zenith Elevator Services LLC,2027-12-31,2027-10-02,NONE,16068.0
+C-024,Harbor Catering Services LLC,2027-07-31,,NONE,138432.0
+C-025,Pioneer Shuttle Transport LLC,2027-10-31,2027-09-01,NONE,99600.0
+C-026,Orchid Uniforms and Linen LLC,2026-06-30,,NONE,11000.0
+C-027,DataVault Backup Services Ltd,2028-04-30,2028-01-31,NONE,112569.6
+C-028,Summit Recruitment Technology Ltd,2026-12-09,2026-09-10,LOCKED_IN,15500.0
+C-029,Crestline Legal Advisors LLC,2027-11-30,,NONE,80340.0
+C-030,Ember Staffing Support LLC,2027-02-28,2026-12-30,ACT_NOW,322596.0

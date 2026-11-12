@@ -1,0 +1,52 @@
+# Every number the value model uses lives here, with where it came from.
+# Change them and re-run:  python 05_value_model.py
+# "benchmark" = taken from a published source (see docs / the business-case article).
+# "assumption" = my own placeholder. Replace it with your company's figure.
+
+[company]
+name = "Halden Group (fictional)"
+employees = 1200
+# assumption: yearly payments to suppliers for a firm of this size
+annual_supplier_spend_usd = 60_000_000
+# assumption: share of that spend backed by a written contract and an invoice we can read
+share_readable = 0.5
+
+[leakage_rate]
+# benchmark range: published figures run from about 0.1% (recovery-audit planning rule)
+# through 0.35% (invoice-data study) to up to 1.5% (duplicate/erroneous payments, IOFM via Corpay).
+# Companies with strong matching controls sit at the low end.
+low = 0.001
+base = 0.0035
+high = 0.01
+
+[detection]
+# Share of the real leakage the tool finds. Replaced by the MEASURED catch rate from your own
+# test run when you use:  python 05_value_model.py --use-measured
+low = 0.50
+base = 0.75
+high = 0.90
+
+[recovery]
+# assumption: share of confirmed leakage that is actually paid back or credited
+low = 0.50
+base = 0.65
+high = 0.80
+
+[work]
+# assumption: average size of one confirmed finding, and review effort
+avg_finding_usd = 2000
+false_alarms_per_true_finding = 0.5
+review_minutes_per_flag = 20
+analyst_cost_usd_per_hour = 50
+setup_hours = 60
+setup_cost_usd_per_hour = 75
+annual_upkeep_hours = 40
+hardware_and_software_cost_usd = 0   # open-source tools on a workstation you already own
+
+[renewals]
+# Kept apart from the headline: avoiding a renewal is cost avoidance, which a CFO treats as softer.
+# assumption: share of "act now" renewals actually renegotiated, and the price improvement won
+share_renegotiated = 0.5
+saving_low = 0.03
+saving_base = 0.05
+saving_high = 0.08

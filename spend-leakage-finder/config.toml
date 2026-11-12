@@ -1,0 +1,17 @@
+# Settings you may want to change. Everything else is in the scripts.
+
+[ollama]
+url = "http://localhost:11434"
+# Any instruct model you have pulled with `ollama pull`. Check https://ollama.com/library
+# for a newer 7-8 billion parameter model; the test is the same whichever you choose.
+model = "qwen2.5:7b"
+num_ctx = 8192
+timeout_seconds = 300
+
+[rules]
+# The "today" used for renewal deadlines. The made-up data was built around this date.
+as_of_date = "2026-11-11"
+# How far ahead (in days) a notice deadline counts as "act now".
+renewal_window_days = 90
+# Ignore price differences smaller than this percentage (rounding noise).
+rate_tolerance_pct = 0.1

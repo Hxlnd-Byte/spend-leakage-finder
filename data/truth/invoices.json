@@ -1,0 +1,4201 @@
+[
+  {
+    "invoice_no": "BH-2026-0101",
+    "vendor_name_printed": "Bluepeak Cloud Hosting FZ-LLC",
+    "agreement_ref": "AGR-2024-107",
+    "invoice_date": "2026-05-04",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (May 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 2,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0001",
+    "file": "I-0001_Bluepeak_Cloud_Hosting_FZ_LLC.pdf"
+  },
+  {
+    "invoice_no": "BH-2026-0102",
+    "vendor_name_printed": "Bluepeak Cloud Hosting FZ-LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-02",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (June 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 3,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0002",
+    "file": "I-0002_Bluepeak_Cloud_Hosting_FZ_LLC.pdf"
+  },
+  {
+    "invoice_no": "BH-2026-0103",
+    "vendor_name_printed": "Bluepeak Hosting",
+    "agreement_ref": null,
+    "invoice_date": "2026-07-05",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (July 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 1,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0003",
+    "file": "I-0003_Bluepeak_Hosting.pdf"
+  },
+  {
+    "invoice_no": "BH-2026-0104",
+    "vendor_name_printed": "Bluepeak Cloud Hosting FZ-LLC",
+    "agreement_ref": "AGR-2024-107",
+    "invoice_date": "2026-08-01",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (August 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 2,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0004",
+    "file": "I-0004_Bluepeak_Cloud_Hosting_FZ_LLC.pdf"
+  },
+  {
+    "invoice_no": "BH-2026-0105",
+    "vendor_name_printed": "Bluepeak Cloud Hosting FZ-LLC",
+    "agreement_ref": "AGR-2024-107",
+    "invoice_date": "2026-09-03",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (September 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 3,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0005",
+    "file": "I-0005_Bluepeak_Cloud_Hosting_FZ_LLC.pdf"
+  },
+  {
+    "invoice_no": "BH-2026-0106",
+    "vendor_name_printed": "Bluepeak Cloud Hosting FZ-LLC",
+    "agreement_ref": "AGR-2024-107",
+    "invoice_date": "2026-10-03",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (October 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 1,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0006",
+    "file": "I-0006_Bluepeak_Cloud_Hosting_FZ_LLC.pdf"
+  },
+  {
+    "invoice_no": "BH-2026-0107",
+    "vendor_name_printed": "Bluepeak Cloud Hosting FZ-LLC",
+    "agreement_ref": "AGR-2024-107",
+    "invoice_date": "2026-10-09",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (October 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 1,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0007",
+    "file": "I-0007_Bluepeak_Cloud_Hosting_FZ_LLC.pdf"
+  },
+  {
+    "invoice_no": "BH-2026-0108",
+    "vendor_name_printed": "Bluepeak Hosting",
+    "agreement_ref": "AGR-2024-107",
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Managed cloud hosting, production environment (November 2026)",
+        "quantity": 1,
+        "unit_rate": 15064.78,
+        "amount": 15064.78,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15064.78,
+    "vat": 753.24,
+    "total": 15818.02,
+    "template": 3,
+    "true_contract_id": "C-001",
+    "currency": "USD",
+    "doc_id": "I-0008",
+    "file": "I-0008_Bluepeak_Hosting.pdf"
+  },
+  {
+    "invoice_no": "KOS-2026-0101",
+    "vendor_name_printed": "Karam Office Supplies LLC",
+    "agreement_ref": "AGR-2025-114",
+    "invoice_date": "2026-05-03",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Office stationery supply programme (May 2026)",
+        "quantity": 1,
+        "unit_rate": 3800.0,
+        "amount": 3800.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3800.0,
+    "vat": 190.0,
+    "total": 3990.0,
+    "template": 2,
+    "true_contract_id": "C-002",
+    "currency": "USD",
+    "doc_id": "I-0009",
+    "file": "I-0009_Karam_Office_Supplies_LLC.pdf"
+  },
+  {
+    "invoice_no": "KOS-2026-0102",
+    "vendor_name_printed": "Karam Office Supplies LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-03",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Office stationery supply programme (June 2026)",
+        "quantity": 1,
+        "unit_rate": 3800.0,
+        "amount": 3800.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3800.0,
+    "vat": 190.0,
+    "total": 3990.0,
+    "template": 3,
+    "true_contract_id": "C-002",
+    "currency": "USD",
+    "doc_id": "I-0010",
+    "file": "I-0010_Karam_Office_Supplies_LLC.pdf"
+  },
+  {
+    "invoice_no": "KOS-2026-0103",
+    "vendor_name_printed": "Karam Office Supplies LLC",
+    "agreement_ref": "AGR-2025-114",
+    "invoice_date": "2026-07-04",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Office stationery supply programme (July 2026)",
+        "quantity": 1,
+        "unit_rate": 3800.0,
+        "amount": 3800.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3800.0,
+    "vat": 190.0,
+    "total": 3990.0,
+    "template": 1,
+    "true_contract_id": "C-002",
+    "currency": "USD",
+    "doc_id": "I-0011",
+    "file": "I-0011_Karam_Office_Supplies_LLC.pdf"
+  },
+  {
+    "invoice_no": "KOS-2026-0104",
+    "vendor_name_printed": "Karam Office Supplies LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-02",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Office stationery supply programme (August 2026)",
+        "quantity": 1,
+        "unit_rate": 3800.0,
+        "amount": 3800.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3800.0,
+    "vat": 190.0,
+    "total": 3990.0,
+    "template": 2,
+    "true_contract_id": "C-002",
+    "currency": "USD",
+    "doc_id": "I-0012",
+    "file": "I-0012_Karam_Office_Supplies_LLC.pdf"
+  },
+  {
+    "invoice_no": "KOS-2026-0105",
+    "vendor_name_printed": "Karam Office Supplies",
+    "agreement_ref": "AGR-2025-114",
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Office stationery supply programme (September 2026)",
+        "quantity": 1,
+        "unit_rate": 3800.0,
+        "amount": 3800.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3800.0,
+    "vat": 190.0,
+    "total": 3990.0,
+    "template": 3,
+    "true_contract_id": "C-002",
+    "currency": "USD",
+    "doc_id": "I-0013",
+    "file": "I-0013_Karam_Office_Supplies.pdf"
+  },
+  {
+    "invoice_no": "KOS-2026-0106",
+    "vendor_name_printed": "Karam Office Supplies LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-04",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Office stationery supply programme (October 2026)",
+        "quantity": 1,
+        "unit_rate": 3800.0,
+        "amount": 3800.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3800.0,
+    "vat": 190.0,
+    "total": 3990.0,
+    "template": 1,
+    "true_contract_id": "C-002",
+    "currency": "USD",
+    "doc_id": "I-0014",
+    "file": "I-0014_Karam_Office_Supplies_LLC.pdf"
+  },
+  {
+    "invoice_no": "KOS-2026-0107",
+    "vendor_name_printed": "Karam Office Supplies LLC",
+    "agreement_ref": "AGR-2025-114",
+    "invoice_date": "2026-11-02",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Office stationery supply programme (November 2026)",
+        "quantity": 1,
+        "unit_rate": 3800.0,
+        "amount": 3800.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3800.0,
+    "vat": 190.0,
+    "total": 3990.0,
+    "template": 2,
+    "true_contract_id": "C-002",
+    "currency": "USD",
+    "doc_id": "I-0015",
+    "file": "I-0015_Karam_Office_Supplies_LLC.pdf"
+  },
+  {
+    "invoice_no": "MC-2026-0101",
+    "vendor_name_printed": "Meridian Cleaning",
+    "agreement_ref": "AGR-2023-121",
+    "invoice_date": "2026-05-01",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Cleaning services, head office and two branches (May 2026)",
+        "quantity": 1,
+        "unit_rate": 20009.6,
+        "amount": 20009.6,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 20009.6,
+    "vat": 1000.48,
+    "total": 21010.08,
+    "template": 1,
+    "true_contract_id": "C-003",
+    "currency": "USD",
+    "doc_id": "I-0016",
+    "file": "I-0016_Meridian_Cleaning.pdf"
+  },
+  {
+    "invoice_no": "MC-2026-0102",
+    "vendor_name_printed": "Meridian Cleaning",
+    "agreement_ref": "AGR-2023-121",
+    "invoice_date": "2026-06-04",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Cleaning services, head office and two branches (June 2026)",
+        "quantity": 1,
+        "unit_rate": 20009.6,
+        "amount": 20009.6,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 20009.6,
+    "vat": 1000.48,
+    "total": 21010.08,
+    "template": 2,
+    "true_contract_id": "C-003",
+    "currency": "USD",
+    "doc_id": "I-0017",
+    "file": "I-0017_Meridian_Cleaning.pdf"
+  },
+  {
+    "invoice_no": "MC-2026-0103",
+    "vendor_name_printed": "Meridian Cleaning Services LLC",
+    "agreement_ref": "AGR-2023-121",
+    "invoice_date": "2026-07-01",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Cleaning services, head office and two branches (July 2026)",
+        "quantity": 1,
+        "unit_rate": 20009.6,
+        "amount": 20009.6,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 20009.6,
+    "vat": 1000.48,
+    "total": 21010.08,
+    "template": 3,
+    "true_contract_id": "C-003",
+    "currency": "USD",
+    "doc_id": "I-0018",
+    "file": "I-0018_Meridian_Cleaning_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "MC-2026-0104",
+    "vendor_name_printed": "Meridian Cleaning Services LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-01",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Cleaning services, head office and two branches (August 2026)",
+        "quantity": 1,
+        "unit_rate": 20009.6,
+        "amount": 20009.6,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 20009.6,
+    "vat": 1000.48,
+    "total": 21010.08,
+    "template": 1,
+    "true_contract_id": "C-003",
+    "currency": "USD",
+    "doc_id": "I-0019",
+    "file": "I-0019_Meridian_Cleaning_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "MC-2026-0105",
+    "vendor_name_printed": "Meridian Cleaning Services LLC",
+    "agreement_ref": "AGR-2023-121",
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Cleaning services, head office and two branches (September 2026)",
+        "quantity": 1,
+        "unit_rate": 21850.48,
+        "amount": 21850.48,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 21850.48,
+    "vat": 1092.52,
+    "total": 22943.0,
+    "template": 2,
+    "true_contract_id": "C-003",
+    "currency": "USD",
+    "doc_id": "I-0020",
+    "file": "I-0020_Meridian_Cleaning_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "MC-2026-0106",
+    "vendor_name_printed": "Meridian Cleaning Services LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-04",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Cleaning services, head office and two branches (October 2026)",
+        "quantity": 1,
+        "unit_rate": 21850.48,
+        "amount": 21850.48,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 21850.48,
+    "vat": 1092.52,
+    "total": 22943.0,
+    "template": 3,
+    "true_contract_id": "C-003",
+    "currency": "USD",
+    "doc_id": "I-0021",
+    "file": "I-0021_Meridian_Cleaning_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "MC-2026-0107",
+    "vendor_name_printed": "Meridian Cleaning",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-02",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Cleaning services, head office and two branches (November 2026)",
+        "quantity": 1,
+        "unit_rate": 21850.48,
+        "amount": 21850.48,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 21850.48,
+    "vat": 1092.52,
+    "total": 22943.0,
+    "template": 1,
+    "true_contract_id": "C-003",
+    "currency": "USD",
+    "doc_id": "I-0022",
+    "file": "I-0022_Meridian_Cleaning.pdf"
+  },
+  {
+    "invoice_no": "Q-2026-0101",
+    "vendor_name_printed": "Quillbase Software Ltd",
+    "agreement_ref": null,
+    "invoice_date": "2026-05-03",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Collaboration suite subscription (May 2026)",
+        "quantity": 1150,
+        "unit_rate": 15.23,
+        "amount": 17514.5,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 17514.5,
+    "vat": 875.73,
+    "total": 18390.23,
+    "template": 3,
+    "true_contract_id": "C-004",
+    "currency": "USD",
+    "doc_id": "I-0023",
+    "file": "I-0023_Quillbase_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "Q-2026-0102",
+    "vendor_name_printed": "Quillbase Software Ltd",
+    "agreement_ref": "AGR-2025-128",
+    "invoice_date": "2026-06-01",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Collaboration suite subscription (June 2026)",
+        "quantity": 1160,
+        "unit_rate": 15.23,
+        "amount": 17666.8,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 17666.8,
+    "vat": 883.34,
+    "total": 18550.14,
+    "template": 1,
+    "true_contract_id": "C-004",
+    "currency": "USD",
+    "doc_id": "I-0024",
+    "file": "I-0024_Quillbase_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "Q-2026-0103",
+    "vendor_name_printed": "Quillbase",
+    "agreement_ref": "AGR-2025-128",
+    "invoice_date": "2026-07-04",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Collaboration suite subscription (July 2026)",
+        "quantity": 1170,
+        "unit_rate": 15.23,
+        "amount": 17819.1,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 17819.1,
+    "vat": 890.95,
+    "total": 18710.05,
+    "template": 2,
+    "true_contract_id": "C-004",
+    "currency": "USD",
+    "doc_id": "I-0025",
+    "file": "I-0025_Quillbase.pdf"
+  },
+  {
+    "invoice_no": "Q-2026-0104",
+    "vendor_name_printed": "Quillbase Software Ltd",
+    "agreement_ref": "AGR-2025-128",
+    "invoice_date": "2026-08-05",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Collaboration suite subscription (August 2026)",
+        "quantity": 1180,
+        "unit_rate": 15.23,
+        "amount": 17971.4,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 17971.4,
+    "vat": 898.57,
+    "total": 18869.97,
+    "template": 3,
+    "true_contract_id": "C-004",
+    "currency": "USD",
+    "doc_id": "I-0026",
+    "file": "I-0026_Quillbase_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "Q-2026-0105",
+    "vendor_name_printed": "Quillbase Software Ltd",
+    "agreement_ref": "AGR-2025-128",
+    "invoice_date": "2026-09-04",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Collaboration suite subscription (September 2026)",
+        "quantity": 1190,
+        "unit_rate": 15.23,
+        "amount": 18123.7,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 18123.7,
+    "vat": 906.19,
+    "total": 19029.89,
+    "template": 1,
+    "true_contract_id": "C-004",
+    "currency": "USD",
+    "doc_id": "I-0027",
+    "file": "I-0027_Quillbase_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "Q-2026-0106",
+    "vendor_name_printed": "Quillbase",
+    "agreement_ref": "AGR-2025-128",
+    "invoice_date": "2026-10-04",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Collaboration suite subscription (October 2026)",
+        "quantity": 1200,
+        "unit_rate": 15.23,
+        "amount": 18276.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 18276.0,
+    "vat": 913.8,
+    "total": 19189.8,
+    "template": 2,
+    "true_contract_id": "C-004",
+    "currency": "USD",
+    "doc_id": "I-0028",
+    "file": "I-0028_Quillbase.pdf"
+  },
+  {
+    "invoice_no": "Q-2026-0107",
+    "vendor_name_printed": "Quillbase Software Ltd",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Collaboration suite subscription (November 2026)",
+        "quantity": 1210,
+        "unit_rate": 15.23,
+        "amount": 18428.3,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 18428.3,
+    "vat": 921.41,
+    "total": 19349.71,
+    "template": 3,
+    "true_contract_id": "C-004",
+    "currency": "USD",
+    "doc_id": "I-0029",
+    "file": "I-0029_Quillbase_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "TC-2026-0101",
+    "vendor_name_printed": "Tessera CRM",
+    "agreement_ref": null,
+    "invoice_date": "2026-05-01",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Customer relationship management subscription (May 2026)",
+        "quantity": 85,
+        "unit_rate": 63.86,
+        "amount": 5428.1,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5428.1,
+    "vat": 271.41,
+    "total": 5699.51,
+    "template": 2,
+    "true_contract_id": "C-005",
+    "currency": "USD",
+    "doc_id": "I-0030",
+    "file": "I-0030_Tessera_CRM.pdf"
+  },
+  {
+    "invoice_no": "TC-2026-0102",
+    "vendor_name_printed": "Tessera CRM",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-03",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Customer relationship management subscription (June 2026)",
+        "quantity": 85,
+        "unit_rate": 63.86,
+        "amount": 5428.1,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5428.1,
+    "vat": 271.41,
+    "total": 5699.51,
+    "template": 3,
+    "true_contract_id": "C-005",
+    "currency": "USD",
+    "doc_id": "I-0031",
+    "file": "I-0031_Tessera_CRM.pdf"
+  },
+  {
+    "invoice_no": "TC-2026-0103",
+    "vendor_name_printed": "Tessera CRM Systems Ltd",
+    "agreement_ref": "AGR-2024-135",
+    "invoice_date": "2026-07-02",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Customer relationship management subscription (July 2026)",
+        "quantity": 85,
+        "unit_rate": 65.78,
+        "amount": 5591.3,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5591.3,
+    "vat": 279.56,
+    "total": 5870.86,
+    "template": 1,
+    "true_contract_id": "C-005",
+    "currency": "USD",
+    "doc_id": "I-0032",
+    "file": "I-0032_Tessera_CRM_Systems_Ltd.pdf"
+  },
+  {
+    "invoice_no": "TC-2026-0104",
+    "vendor_name_printed": "Tessera CRM Systems Ltd",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-03",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Customer relationship management subscription (August 2026)",
+        "quantity": 85,
+        "unit_rate": 65.78,
+        "amount": 5591.3,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5591.3,
+    "vat": 279.56,
+    "total": 5870.86,
+    "template": 2,
+    "true_contract_id": "C-005",
+    "currency": "USD",
+    "doc_id": "I-0033",
+    "file": "I-0033_Tessera_CRM_Systems_Ltd.pdf"
+  },
+  {
+    "invoice_no": "TC-2026-0105",
+    "vendor_name_printed": "Tessera CRM Systems Ltd",
+    "agreement_ref": "AGR-2024-135",
+    "invoice_date": "2026-09-04",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Customer relationship management subscription (September 2026)",
+        "quantity": 118,
+        "unit_rate": 65.78,
+        "amount": 7762.04,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 7762.04,
+    "vat": 388.1,
+    "total": 8150.14,
+    "template": 3,
+    "true_contract_id": "C-005",
+    "currency": "USD",
+    "doc_id": "I-0034",
+    "file": "I-0034_Tessera_CRM_Systems_Ltd.pdf"
+  },
+  {
+    "invoice_no": "TC-2026-0106",
+    "vendor_name_printed": "Tessera CRM Systems Ltd",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-04",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Customer relationship management subscription (October 2026)",
+        "quantity": 118,
+        "unit_rate": 65.78,
+        "amount": 7762.04,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 7762.04,
+    "vat": 388.1,
+    "total": 8150.14,
+    "template": 1,
+    "true_contract_id": "C-005",
+    "currency": "USD",
+    "doc_id": "I-0035",
+    "file": "I-0035_Tessera_CRM_Systems_Ltd.pdf"
+  },
+  {
+    "invoice_no": "TC-2026-0107",
+    "vendor_name_printed": "Tessera CRM",
+    "agreement_ref": "AGR-2024-135",
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Customer relationship management subscription (November 2026)",
+        "quantity": 118,
+        "unit_rate": 65.78,
+        "amount": 7762.04,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 7762.04,
+    "vat": 388.1,
+    "total": 8150.14,
+    "template": 2,
+    "true_contract_id": "C-005",
+    "currency": "USD",
+    "doc_id": "I-0036",
+    "file": "I-0036_Tessera_CRM.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0101",
+    "vendor_name_printed": "Orbix Endpoint Security Inc",
+    "agreement_ref": null,
+    "invoice_date": "2026-05-05",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (May 2026)",
+        "quantity": 1400,
+        "unit_rate": 4.2,
+        "amount": 5880.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5880.0,
+    "vat": 294.0,
+    "total": 6174.0,
+    "template": 1,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0037",
+    "file": "I-0037_Orbix_Endpoint_Security_Inc.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0102",
+    "vendor_name_printed": "Orbix Security",
+    "agreement_ref": "AGR-2025-142",
+    "invoice_date": "2026-06-02",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (June 2026)",
+        "quantity": 1405,
+        "unit_rate": 4.2,
+        "amount": 5901.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5901.0,
+    "vat": 295.05,
+    "total": 6196.05,
+    "template": 2,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0038",
+    "file": "I-0038_Orbix_Security.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0103",
+    "vendor_name_printed": "Orbix Endpoint Security Inc",
+    "agreement_ref": "AGR-2025-142",
+    "invoice_date": "2026-07-02",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (July 2026)",
+        "quantity": 1410,
+        "unit_rate": 4.2,
+        "amount": 5922.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5922.0,
+    "vat": 296.1,
+    "total": 6218.1,
+    "template": 3,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0039",
+    "file": "I-0039_Orbix_Endpoint_Security_Inc.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0104",
+    "vendor_name_printed": "Orbix Security",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-02",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (August 2026)",
+        "quantity": 1415,
+        "unit_rate": 4.2,
+        "amount": 5943.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5943.0,
+    "vat": 297.15,
+    "total": 6240.15,
+    "template": 1,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0040",
+    "file": "I-0040_Orbix_Security.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0104",
+    "vendor_name_printed": "Orbix Security",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-06",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (August 2026)",
+        "quantity": 1415,
+        "unit_rate": 4.2,
+        "amount": 5943.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5943.0,
+    "vat": 297.15,
+    "total": 6240.15,
+    "template": 1,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0041",
+    "file": "I-0041_Orbix_Security.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0105",
+    "vendor_name_printed": "Orbix Endpoint Security Inc",
+    "agreement_ref": "AGR-2025-142",
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (September 2026)",
+        "quantity": 1420,
+        "unit_rate": 4.2,
+        "amount": 5964.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5964.0,
+    "vat": 298.2,
+    "total": 6262.2,
+    "template": 3,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0042",
+    "file": "I-0042_Orbix_Endpoint_Security_Inc.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0106",
+    "vendor_name_printed": "Orbix Endpoint Security Inc",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-05",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (October 2026)",
+        "quantity": 1425,
+        "unit_rate": 4.2,
+        "amount": 5985.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5985.0,
+    "vat": 299.25,
+    "total": 6284.25,
+    "template": 1,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0043",
+    "file": "I-0043_Orbix_Endpoint_Security_Inc.pdf"
+  },
+  {
+    "invoice_no": "OS-2026-0107",
+    "vendor_name_printed": "Orbix Security",
+    "agreement_ref": "AGR-2025-142",
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Endpoint protection licences (November 2026)",
+        "quantity": 1430,
+        "unit_rate": 4.2,
+        "amount": 6006.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6006.0,
+    "vat": 300.3,
+    "total": 6306.3,
+    "template": 2,
+    "true_contract_id": "C-006",
+    "currency": "USD",
+    "doc_id": "I-0044",
+    "file": "I-0044_Orbix_Security.pdf"
+  },
+  {
+    "invoice_no": "LH-2026-0101",
+    "vendor_name_printed": "Lumen HR Software Ltd",
+    "agreement_ref": null,
+    "invoice_date": "2026-05-04",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Human resources platform subscription (May 2026)",
+        "quantity": 1200,
+        "unit_rate": 3.1,
+        "amount": 3720.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3720.0,
+    "vat": 186.0,
+    "total": 3906.0,
+    "template": 1,
+    "true_contract_id": "C-007",
+    "currency": "USD",
+    "doc_id": "I-0045",
+    "file": "I-0045_Lumen_HR_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "LH-2026-0102",
+    "vendor_name_printed": "Lumen HR Software Ltd",
+    "agreement_ref": "AGR-2025-149",
+    "invoice_date": "2026-06-01",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Human resources platform subscription (June 2026)",
+        "quantity": 1203,
+        "unit_rate": 3.1,
+        "amount": 3729.3,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3729.3,
+    "vat": 186.47,
+    "total": 3915.77,
+    "template": 2,
+    "true_contract_id": "C-007",
+    "currency": "USD",
+    "doc_id": "I-0046",
+    "file": "I-0046_Lumen_HR_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "LH-2026-0103",
+    "vendor_name_printed": "Lumen HR",
+    "agreement_ref": "AGR-2025-149",
+    "invoice_date": "2026-07-03",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Human resources platform subscription (July 2026)",
+        "quantity": 1206,
+        "unit_rate": 3.1,
+        "amount": 3738.6,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3738.6,
+    "vat": 186.93,
+    "total": 3925.53,
+    "template": 3,
+    "true_contract_id": "C-007",
+    "currency": "USD",
+    "doc_id": "I-0047",
+    "file": "I-0047_Lumen_HR.pdf"
+  },
+  {
+    "invoice_no": "LH-2026-0104",
+    "vendor_name_printed": "Lumen HR Software Ltd",
+    "agreement_ref": "AGR-2025-149",
+    "invoice_date": "2026-08-05",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Human resources platform subscription (August 2026)",
+        "quantity": 1209,
+        "unit_rate": 3.1,
+        "amount": 3747.9,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3747.9,
+    "vat": 187.4,
+    "total": 3935.3,
+    "template": 1,
+    "true_contract_id": "C-007",
+    "currency": "USD",
+    "doc_id": "I-0048",
+    "file": "I-0048_Lumen_HR_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "LH-2026-0105",
+    "vendor_name_printed": "Lumen HR Software Ltd",
+    "agreement_ref": "AGR-2025-149",
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Human resources platform subscription (September 2026)",
+        "quantity": 1212,
+        "unit_rate": 3.22,
+        "amount": 3902.64,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3902.64,
+    "vat": 195.13,
+    "total": 4097.77,
+    "template": 2,
+    "true_contract_id": "C-007",
+    "currency": "USD",
+    "doc_id": "I-0049",
+    "file": "I-0049_Lumen_HR_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "LH-2026-0106",
+    "vendor_name_printed": "Lumen HR Software Ltd",
+    "agreement_ref": "AGR-2025-149",
+    "invoice_date": "2026-10-03",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Human resources platform subscription (October 2026)",
+        "quantity": 1215,
+        "unit_rate": 3.22,
+        "amount": 3912.3,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3912.3,
+    "vat": 195.62,
+    "total": 4107.92,
+    "template": 3,
+    "true_contract_id": "C-007",
+    "currency": "USD",
+    "doc_id": "I-0050",
+    "file": "I-0050_Lumen_HR_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "LH-2026-0107",
+    "vendor_name_printed": "Lumen HR Software Ltd",
+    "agreement_ref": "AGR-2025-149",
+    "invoice_date": "2026-11-02",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Human resources platform subscription (November 2026)",
+        "quantity": 1218,
+        "unit_rate": 3.22,
+        "amount": 3921.96,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 3921.96,
+    "vat": 196.1,
+    "total": 4118.06,
+    "template": 1,
+    "true_contract_id": "C-007",
+    "currency": "USD",
+    "doc_id": "I-0051",
+    "file": "I-0051_Lumen_HR_Software_Ltd.pdf"
+  },
+  {
+    "invoice_no": "P-2026-0101",
+    "vendor_name_printed": "PrintWorks",
+    "agreement_ref": "AGR-2024-156",
+    "invoice_date": "2026-05-03",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Managed print service, all floors (May 2026)",
+        "quantity": 1,
+        "unit_rate": 6400.0,
+        "amount": 6400.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6400.0,
+    "vat": 320.0,
+    "total": 6720.0,
+    "template": 3,
+    "true_contract_id": "C-008",
+    "currency": "USD",
+    "doc_id": "I-0052",
+    "file": "I-0052_PrintWorks.pdf"
+  },
+  {
+    "invoice_no": "P-2026-0102",
+    "vendor_name_printed": "PrintWorks Managed Print LLC",
+    "agreement_ref": "AGR-2024-156",
+    "invoice_date": "2026-06-03",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Managed print service, all floors (June 2026)",
+        "quantity": 1,
+        "unit_rate": 6400.0,
+        "amount": 6400.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6400.0,
+    "vat": 320.0,
+    "total": 6720.0,
+    "template": 1,
+    "true_contract_id": "C-008",
+    "currency": "USD",
+    "doc_id": "I-0053",
+    "file": "I-0053_PrintWorks_Managed_Print_LLC.pdf"
+  },
+  {
+    "invoice_no": "P-2026-0103",
+    "vendor_name_printed": "PrintWorks Managed Print LLC",
+    "agreement_ref": "AGR-2024-156",
+    "invoice_date": "2026-07-05",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Managed print service, all floors (July 2026)",
+        "quantity": 1,
+        "unit_rate": 6400.0,
+        "amount": 6400.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6400.0,
+    "vat": 320.0,
+    "total": 6720.0,
+    "template": 2,
+    "true_contract_id": "C-008",
+    "currency": "USD",
+    "doc_id": "I-0054",
+    "file": "I-0054_PrintWorks_Managed_Print_LLC.pdf"
+  },
+  {
+    "invoice_no": "P-2026-0104",
+    "vendor_name_printed": "PrintWorks Managed Print LLC",
+    "agreement_ref": "AGR-2024-156",
+    "invoice_date": "2026-08-01",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Managed print service, all floors (August 2026)",
+        "quantity": 1,
+        "unit_rate": 6400.0,
+        "amount": 6400.0,
+        "kind": "MAIN"
+      },
+      {
+        "description": "Fuel and logistics surcharge",
+        "quantity": 1,
+        "unit_rate": 192.0,
+        "amount": 192.0,
+        "kind": "EXTRA"
+      }
+    ],
+    "subtotal": 6592.0,
+    "vat": 329.6,
+    "total": 6921.6,
+    "template": 3,
+    "true_contract_id": "C-008",
+    "currency": "USD",
+    "doc_id": "I-0055",
+    "file": "I-0055_PrintWorks_Managed_Print_LLC.pdf"
+  },
+  {
+    "invoice_no": "P-2026-0105",
+    "vendor_name_printed": "PrintWorks Managed Print LLC",
+    "agreement_ref": "AGR-2024-156",
+    "invoice_date": "2026-09-04",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Managed print service, all floors (September 2026)",
+        "quantity": 1,
+        "unit_rate": 6400.0,
+        "amount": 6400.0,
+        "kind": "MAIN"
+      },
+      {
+        "description": "Fuel and logistics surcharge",
+        "quantity": 1,
+        "unit_rate": 192.0,
+        "amount": 192.0,
+        "kind": "EXTRA"
+      }
+    ],
+    "subtotal": 6592.0,
+    "vat": 329.6,
+    "total": 6921.6,
+    "template": 1,
+    "true_contract_id": "C-008",
+    "currency": "USD",
+    "doc_id": "I-0056",
+    "file": "I-0056_PrintWorks_Managed_Print_LLC.pdf"
+  },
+  {
+    "invoice_no": "P-2026-0106",
+    "vendor_name_printed": "PrintWorks",
+    "agreement_ref": "AGR-2024-156",
+    "invoice_date": "2026-10-02",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Managed print service, all floors (October 2026)",
+        "quantity": 1,
+        "unit_rate": 6400.0,
+        "amount": 6400.0,
+        "kind": "MAIN"
+      },
+      {
+        "description": "Fuel and logistics surcharge",
+        "quantity": 1,
+        "unit_rate": 192.0,
+        "amount": 192.0,
+        "kind": "EXTRA"
+      }
+    ],
+    "subtotal": 6592.0,
+    "vat": 329.6,
+    "total": 6921.6,
+    "template": 2,
+    "true_contract_id": "C-008",
+    "currency": "USD",
+    "doc_id": "I-0057",
+    "file": "I-0057_PrintWorks.pdf"
+  },
+  {
+    "invoice_no": "P-2026-0107",
+    "vendor_name_printed": "PrintWorks Managed Print LLC",
+    "agreement_ref": "AGR-2024-156",
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Managed print service, all floors (November 2026)",
+        "quantity": 1,
+        "unit_rate": 6400.0,
+        "amount": 6400.0,
+        "kind": "MAIN"
+      },
+      {
+        "description": "Fuel and logistics surcharge",
+        "quantity": 1,
+        "unit_rate": 192.0,
+        "amount": 192.0,
+        "kind": "EXTRA"
+      }
+    ],
+    "subtotal": 6592.0,
+    "vat": 329.6,
+    "total": 6921.6,
+    "template": 3,
+    "true_contract_id": "C-008",
+    "currency": "USD",
+    "doc_id": "I-0058",
+    "file": "I-0058_PrintWorks_Managed_Print_LLC.pdf"
+  },
+  {
+    "invoice_no": "FS-2026-0101",
+    "vendor_name_printed": "Falcon Security Guarding LLC",
+    "agreement_ref": "AGR-2024-163",
+    "invoice_date": "2026-05-01",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Security guarding, 24-hour cover (May 2026)",
+        "quantity": 12,
+        "unit_rate": 3341.84,
+        "amount": 40102.08,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 40102.08,
+    "vat": 2005.1,
+    "total": 42107.18,
+    "template": 2,
+    "true_contract_id": "C-009",
+    "currency": "USD",
+    "doc_id": "I-0059",
+    "file": "I-0059_Falcon_Security_Guarding_LLC.pdf"
+  },
+  {
+    "invoice_no": "FS-2026-0102",
+    "vendor_name_printed": "Falcon Security Guarding LLC",
+    "agreement_ref": "AGR-2024-163",
+    "invoice_date": "2026-06-05",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Security guarding, 24-hour cover (June 2026)",
+        "quantity": 12,
+        "unit_rate": 3341.84,
+        "amount": 40102.08,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 40102.08,
+    "vat": 2005.1,
+    "total": 42107.18,
+    "template": 3,
+    "true_contract_id": "C-009",
+    "currency": "USD",
+    "doc_id": "I-0060",
+    "file": "I-0060_Falcon_Security_Guarding_LLC.pdf"
+  },
+  {
+    "invoice_no": "FS-2026-0103",
+    "vendor_name_printed": "Falcon Security Guarding LLC",
+    "agreement_ref": "AGR-2024-163",
+    "invoice_date": "2026-07-05",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Security guarding, 24-hour cover (July 2026)",
+        "quantity": 12,
+        "unit_rate": 3341.84,
+        "amount": 40102.08,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 40102.08,
+    "vat": 2005.1,
+    "total": 42107.18,
+    "template": 1,
+    "true_contract_id": "C-009",
+    "currency": "USD",
+    "doc_id": "I-0061",
+    "file": "I-0061_Falcon_Security_Guarding_LLC.pdf"
+  },
+  {
+    "invoice_no": "FS-2026-0104",
+    "vendor_name_printed": "Falcon Security Guarding LLC",
+    "agreement_ref": "AGR-2024-163",
+    "invoice_date": "2026-08-03",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Security guarding, 24-hour cover (August 2026)",
+        "quantity": 12,
+        "unit_rate": 3341.84,
+        "amount": 40102.08,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 40102.08,
+    "vat": 2005.1,
+    "total": 42107.18,
+    "template": 2,
+    "true_contract_id": "C-009",
+    "currency": "USD",
+    "doc_id": "I-0062",
+    "file": "I-0062_Falcon_Security_Guarding_LLC.pdf"
+  },
+  {
+    "invoice_no": "FS-2026-0105",
+    "vendor_name_printed": "Falcon Security Guarding LLC",
+    "agreement_ref": "AGR-2024-163",
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Security guarding, 24-hour cover (September 2026)",
+        "quantity": 12,
+        "unit_rate": 3341.84,
+        "amount": 40102.08,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 40102.08,
+    "vat": 2005.1,
+    "total": 42107.18,
+    "template": 3,
+    "true_contract_id": "C-009",
+    "currency": "USD",
+    "doc_id": "I-0063",
+    "file": "I-0063_Falcon_Security_Guarding_LLC.pdf"
+  },
+  {
+    "invoice_no": "FS-2026-0106",
+    "vendor_name_printed": "Falcon Security Guarding LLC",
+    "agreement_ref": "AGR-2024-163",
+    "invoice_date": "2026-10-01",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Security guarding, 24-hour cover (October 2026)",
+        "quantity": 12,
+        "unit_rate": 3341.84,
+        "amount": 40102.08,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 40102.08,
+    "vat": 2005.1,
+    "total": 42107.18,
+    "template": 1,
+    "true_contract_id": "C-009",
+    "currency": "USD",
+    "doc_id": "I-0064",
+    "file": "I-0064_Falcon_Security_Guarding_LLC.pdf"
+  },
+  {
+    "invoice_no": "FS-2026-0107",
+    "vendor_name_printed": "Falcon Security Guarding LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-04",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Security guarding, 24-hour cover (November 2026)",
+        "quantity": 12,
+        "unit_rate": 3341.84,
+        "amount": 40102.08,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 40102.08,
+    "vat": 2005.1,
+    "total": 42107.18,
+    "template": 2,
+    "true_contract_id": "C-009",
+    "currency": "USD",
+    "doc_id": "I-0065",
+    "file": "I-0065_Falcon_Security_Guarding_LLC.pdf"
+  },
+  {
+    "invoice_no": "CF-2026-0101",
+    "vendor_name_printed": "Cobalt Facilities",
+    "agreement_ref": null,
+    "invoice_date": "2026-05-02",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Air-conditioning planned maintenance (May 2026)",
+        "quantity": 1,
+        "unit_rate": 10343.77,
+        "amount": 10343.77,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10343.77,
+    "vat": 517.19,
+    "total": 10860.96,
+    "template": 1,
+    "true_contract_id": "C-010",
+    "currency": "USD",
+    "doc_id": "I-0066",
+    "file": "I-0066_Cobalt_Facilities.pdf"
+  },
+  {
+    "invoice_no": "CF-2026-0102",
+    "vendor_name_printed": "Cobalt Facilities Maintenance LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-02",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Air-conditioning planned maintenance (June 2026)",
+        "quantity": 1,
+        "unit_rate": 10343.77,
+        "amount": 10343.77,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10343.77,
+    "vat": 517.19,
+    "total": 10860.96,
+    "template": 2,
+    "true_contract_id": "C-010",
+    "currency": "USD",
+    "doc_id": "I-0067",
+    "file": "I-0067_Cobalt_Facilities_Maintenance_LLC.pdf"
+  },
+  {
+    "invoice_no": "CF-2026-0103",
+    "vendor_name_printed": "Cobalt Facilities",
+    "agreement_ref": "AGR-2023-170",
+    "invoice_date": "2026-07-03",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Air-conditioning planned maintenance (July 2026)",
+        "quantity": 1,
+        "unit_rate": 10343.77,
+        "amount": 10343.77,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10343.77,
+    "vat": 517.19,
+    "total": 10860.96,
+    "template": 3,
+    "true_contract_id": "C-010",
+    "currency": "USD",
+    "doc_id": "I-0068",
+    "file": "I-0068_Cobalt_Facilities.pdf"
+  },
+  {
+    "invoice_no": "CF-2026-0104",
+    "vendor_name_printed": "Cobalt Facilities Maintenance LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-01",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Air-conditioning planned maintenance (August 2026)",
+        "quantity": 1,
+        "unit_rate": 10343.77,
+        "amount": 10343.77,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10343.77,
+    "vat": 517.19,
+    "total": 10860.96,
+    "template": 1,
+    "true_contract_id": "C-010",
+    "currency": "USD",
+    "doc_id": "I-0069",
+    "file": "I-0069_Cobalt_Facilities_Maintenance_LLC.pdf"
+  },
+  {
+    "invoice_no": "CF-2026-0105",
+    "vendor_name_printed": "Cobalt Facilities Maintenance LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-09-04",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Air-conditioning planned maintenance (September 2026)",
+        "quantity": 1,
+        "unit_rate": 10654.09,
+        "amount": 10654.09,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10654.09,
+    "vat": 532.7,
+    "total": 11186.79,
+    "template": 2,
+    "true_contract_id": "C-010",
+    "currency": "USD",
+    "doc_id": "I-0070",
+    "file": "I-0070_Cobalt_Facilities_Maintenance_LLC.pdf"
+  },
+  {
+    "invoice_no": "CF-2026-0106",
+    "vendor_name_printed": "Cobalt Facilities Maintenance LLC",
+    "agreement_ref": "AGR-2023-170",
+    "invoice_date": "2026-10-03",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Air-conditioning planned maintenance (October 2026)",
+        "quantity": 1,
+        "unit_rate": 10654.09,
+        "amount": 10654.09,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10654.09,
+    "vat": 532.7,
+    "total": 11186.79,
+    "template": 3,
+    "true_contract_id": "C-010",
+    "currency": "USD",
+    "doc_id": "I-0071",
+    "file": "I-0071_Cobalt_Facilities_Maintenance_LLC.pdf"
+  },
+  {
+    "invoice_no": "CF-2026-0107",
+    "vendor_name_printed": "Cobalt Facilities",
+    "agreement_ref": "AGR-2023-170",
+    "invoice_date": "2026-11-05",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Air-conditioning planned maintenance (November 2026)",
+        "quantity": 1,
+        "unit_rate": 10654.09,
+        "amount": 10654.09,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10654.09,
+    "vat": 532.7,
+    "total": 11186.79,
+    "template": 1,
+    "true_contract_id": "C-010",
+    "currency": "USD",
+    "doc_id": "I-0072",
+    "file": "I-0072_Cobalt_Facilities.pdf"
+  },
+  {
+    "invoice_no": "SC-2026-0101",
+    "vendor_name_printed": "Swiftline Courier",
+    "agreement_ref": "AGR-2025-177",
+    "invoice_date": "2026-05-03",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Courier and parcel service, fixed programme (May 2026)",
+        "quantity": 1,
+        "unit_rate": 2300.0,
+        "amount": 2300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2300.0,
+    "vat": 115.0,
+    "total": 2415.0,
+    "template": 3,
+    "true_contract_id": "C-011",
+    "currency": "USD",
+    "doc_id": "I-0073",
+    "file": "I-0073_Swiftline_Courier.pdf"
+  },
+  {
+    "invoice_no": "SC-2026-0102",
+    "vendor_name_printed": "Swiftline Courier",
+    "agreement_ref": "AGR-2025-177",
+    "invoice_date": "2026-06-03",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Courier and parcel service, fixed programme (June 2026)",
+        "quantity": 1,
+        "unit_rate": 2300.0,
+        "amount": 2300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2300.0,
+    "vat": 115.0,
+    "total": 2415.0,
+    "template": 1,
+    "true_contract_id": "C-011",
+    "currency": "USD",
+    "doc_id": "I-0074",
+    "file": "I-0074_Swiftline_Courier.pdf"
+  },
+  {
+    "invoice_no": "SC-2026-0103",
+    "vendor_name_printed": "Swiftline Courier",
+    "agreement_ref": "AGR-2025-177",
+    "invoice_date": "2026-07-05",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Courier and parcel service, fixed programme (July 2026)",
+        "quantity": 1,
+        "unit_rate": 2300.0,
+        "amount": 2300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2300.0,
+    "vat": 115.0,
+    "total": 2415.0,
+    "template": 2,
+    "true_contract_id": "C-011",
+    "currency": "USD",
+    "doc_id": "I-0075",
+    "file": "I-0075_Swiftline_Courier.pdf"
+  },
+  {
+    "invoice_no": "SC-2026-0104",
+    "vendor_name_printed": "Swiftline Courier",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-02",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Courier and parcel service, fixed programme (August 2026)",
+        "quantity": 1,
+        "unit_rate": 2300.0,
+        "amount": 2300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2300.0,
+    "vat": 115.0,
+    "total": 2415.0,
+    "template": 3,
+    "true_contract_id": "C-011",
+    "currency": "USD",
+    "doc_id": "I-0076",
+    "file": "I-0076_Swiftline_Courier.pdf"
+  },
+  {
+    "invoice_no": "SC-2026-0105",
+    "vendor_name_printed": "Swiftline Courier Services LLC",
+    "agreement_ref": "AGR-2025-177",
+    "invoice_date": "2026-09-03",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Courier and parcel service, fixed programme (September 2026)",
+        "quantity": 1,
+        "unit_rate": 2300.0,
+        "amount": 2300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2300.0,
+    "vat": 115.0,
+    "total": 2415.0,
+    "template": 1,
+    "true_contract_id": "C-011",
+    "currency": "USD",
+    "doc_id": "I-0077",
+    "file": "I-0077_Swiftline_Courier_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "SC-2026-0106",
+    "vendor_name_printed": "Swiftline Courier Services LLC",
+    "agreement_ref": "AGR-2025-177",
+    "invoice_date": "2026-10-05",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Courier and parcel service, fixed programme (October 2026)",
+        "quantity": 1,
+        "unit_rate": 2300.0,
+        "amount": 2300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2300.0,
+    "vat": 115.0,
+    "total": 2415.0,
+    "template": 2,
+    "true_contract_id": "C-011",
+    "currency": "USD",
+    "doc_id": "I-0078",
+    "file": "I-0078_Swiftline_Courier_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "SC-2026-0107",
+    "vendor_name_printed": "Swiftline Courier Services LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-05",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Courier and parcel service, fixed programme (November 2026)",
+        "quantity": 1,
+        "unit_rate": 2300.0,
+        "amount": 2300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2300.0,
+    "vat": 115.0,
+    "total": 2415.0,
+    "template": 3,
+    "true_contract_id": "C-011",
+    "currency": "USD",
+    "doc_id": "I-0079",
+    "file": "I-0079_Swiftline_Courier_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "N-2026-0101",
+    "vendor_name_printed": "NetAxis Telecom PJSC",
+    "agreement_ref": null,
+    "invoice_date": "2026-01-02",
+    "period_start": "2026-01-01",
+    "period_end": "2026-03-31",
+    "lines": [
+      {
+        "description": "Corporate mobile lines (quarter starting 01 Jan 2026)",
+        "quantity": 420,
+        "unit_rate": 115.88,
+        "amount": 48669.6,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 48669.6,
+    "vat": 2433.48,
+    "total": 51103.08,
+    "template": 2,
+    "true_contract_id": "C-012",
+    "currency": "USD",
+    "doc_id": "I-0080",
+    "file": "I-0080_NetAxis_Telecom_PJSC.pdf"
+  },
+  {
+    "invoice_no": "N-2026-0102",
+    "vendor_name_printed": "NetAxis Telecom PJSC",
+    "agreement_ref": "AGR-2024-184",
+    "invoice_date": "2026-04-01",
+    "period_start": "2026-04-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Corporate mobile lines (quarter starting 01 Apr 2026)",
+        "quantity": 424,
+        "unit_rate": 119.35,
+        "amount": 50604.4,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 50604.4,
+    "vat": 2530.22,
+    "total": 53134.62,
+    "template": 3,
+    "true_contract_id": "C-012",
+    "currency": "USD",
+    "doc_id": "I-0081",
+    "file": "I-0081_NetAxis_Telecom_PJSC.pdf"
+  },
+  {
+    "invoice_no": "N-2026-0103",
+    "vendor_name_printed": "NetAxis",
+    "agreement_ref": "AGR-2024-184",
+    "invoice_date": "2026-07-02",
+    "period_start": "2026-07-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Corporate mobile lines (quarter starting 01 Jul 2026)",
+        "quantity": 428,
+        "unit_rate": 119.35,
+        "amount": 51081.8,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 51081.8,
+    "vat": 2554.09,
+    "total": 53635.89,
+    "template": 1,
+    "true_contract_id": "C-012",
+    "currency": "USD",
+    "doc_id": "I-0082",
+    "file": "I-0082_NetAxis.pdf"
+  },
+  {
+    "invoice_no": "N-2026-0104",
+    "vendor_name_printed": "NetAxis",
+    "agreement_ref": "AGR-2024-184",
+    "invoice_date": "2026-07-13",
+    "period_start": "2026-07-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Corporate mobile lines (quarter starting 01 Jul 2026)",
+        "quantity": 428,
+        "unit_rate": 119.35,
+        "amount": 51081.8,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 51081.8,
+    "vat": 2554.09,
+    "total": 53635.89,
+    "template": 1,
+    "true_contract_id": "C-012",
+    "currency": "USD",
+    "doc_id": "I-0083",
+    "file": "I-0083_NetAxis.pdf"
+  },
+  {
+    "invoice_no": "N-2026-0105",
+    "vendor_name_printed": "NetAxis",
+    "agreement_ref": "AGR-2024-184",
+    "invoice_date": "2026-10-01",
+    "period_start": "2026-10-01",
+    "period_end": "2026-12-31",
+    "lines": [
+      {
+        "description": "Corporate mobile lines (quarter starting 01 Oct 2026)",
+        "quantity": 432,
+        "unit_rate": 119.35,
+        "amount": 51559.2,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 51559.2,
+    "vat": 2577.96,
+    "total": 54137.16,
+    "template": 3,
+    "true_contract_id": "C-012",
+    "currency": "USD",
+    "doc_id": "I-0084",
+    "file": "I-0084_NetAxis.pdf"
+  },
+  {
+    "invoice_no": "GI-2026-0101",
+    "vendor_name_printed": "Gulfstream Internet Services LLC",
+    "agreement_ref": "AGR-2025-191",
+    "invoice_date": "2026-05-03",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Dedicated internet circuits, three sites (May 2026)",
+        "quantity": 1,
+        "unit_rate": 5900.0,
+        "amount": 5900.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5900.0,
+    "vat": 295.0,
+    "total": 6195.0,
+    "template": 2,
+    "true_contract_id": "C-013",
+    "currency": "USD",
+    "doc_id": "I-0085",
+    "file": "I-0085_Gulfstream_Internet_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "GI-2026-0102",
+    "vendor_name_printed": "Gulfstream Internet Services LLC",
+    "agreement_ref": "AGR-2025-191",
+    "invoice_date": "2026-06-04",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Dedicated internet circuits, three sites (June 2026)",
+        "quantity": 1,
+        "unit_rate": 5900.0,
+        "amount": 5900.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5900.0,
+    "vat": 295.0,
+    "total": 6195.0,
+    "template": 3,
+    "true_contract_id": "C-013",
+    "currency": "USD",
+    "doc_id": "I-0086",
+    "file": "I-0086_Gulfstream_Internet_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "GI-2026-0103",
+    "vendor_name_printed": "Gulfstream Internet Services LLC",
+    "agreement_ref": "AGR-2025-191",
+    "invoice_date": "2026-07-04",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Dedicated internet circuits, three sites (July 2026)",
+        "quantity": 1,
+        "unit_rate": 5900.0,
+        "amount": 5900.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5900.0,
+    "vat": 295.0,
+    "total": 6195.0,
+    "template": 1,
+    "true_contract_id": "C-013",
+    "currency": "USD",
+    "doc_id": "I-0087",
+    "file": "I-0087_Gulfstream_Internet_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "GI-2026-0104",
+    "vendor_name_printed": "Gulfstream Internet Services LLC",
+    "agreement_ref": "AGR-2025-191",
+    "invoice_date": "2026-08-03",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Dedicated internet circuits, three sites (August 2026)",
+        "quantity": 1,
+        "unit_rate": 5900.0,
+        "amount": 5900.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5900.0,
+    "vat": 295.0,
+    "total": 6195.0,
+    "template": 2,
+    "true_contract_id": "C-013",
+    "currency": "USD",
+    "doc_id": "I-0088",
+    "file": "I-0088_Gulfstream_Internet_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "GI-2026-0105",
+    "vendor_name_printed": "Gulfstream Internet",
+    "agreement_ref": "AGR-2025-191",
+    "invoice_date": "2026-09-01",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Dedicated internet circuits, three sites (September 2026)",
+        "quantity": 1,
+        "unit_rate": 5900.0,
+        "amount": 5900.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5900.0,
+    "vat": 295.0,
+    "total": 6195.0,
+    "template": 3,
+    "true_contract_id": "C-013",
+    "currency": "USD",
+    "doc_id": "I-0089",
+    "file": "I-0089_Gulfstream_Internet.pdf"
+  },
+  {
+    "invoice_no": "GI-2026-0106",
+    "vendor_name_printed": "Gulfstream Internet Services LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-05",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Dedicated internet circuits, three sites (October 2026)",
+        "quantity": 1,
+        "unit_rate": 5900.0,
+        "amount": 5900.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5900.0,
+    "vat": 295.0,
+    "total": 6195.0,
+    "template": 1,
+    "true_contract_id": "C-013",
+    "currency": "USD",
+    "doc_id": "I-0090",
+    "file": "I-0090_Gulfstream_Internet_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "GI-2026-0107",
+    "vendor_name_printed": "Gulfstream Internet",
+    "agreement_ref": "AGR-2025-191",
+    "invoice_date": "2026-11-01",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Dedicated internet circuits, three sites (November 2026)",
+        "quantity": 1,
+        "unit_rate": 5900.0,
+        "amount": 5900.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 5900.0,
+    "vat": 295.0,
+    "total": 6195.0,
+    "template": 2,
+    "true_contract_id": "C-013",
+    "currency": "USD",
+    "doc_id": "I-0091",
+    "file": "I-0091_Gulfstream_Internet.pdf"
+  },
+  {
+    "invoice_no": "G-2026-0101",
+    "vendor_name_printed": "Greenleaf Landscaping LLC",
+    "agreement_ref": "AGR-2023-198",
+    "invoice_date": "2026-05-04",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Landscaping and irrigation upkeep (May 2026)",
+        "quantity": 1,
+        "unit_rate": 2236.86,
+        "amount": 2236.86,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2236.86,
+    "vat": 111.84,
+    "total": 2348.7,
+    "template": 1,
+    "true_contract_id": "C-014",
+    "currency": "USD",
+    "doc_id": "I-0092",
+    "file": "I-0092_Greenleaf_Landscaping_LLC.pdf"
+  },
+  {
+    "invoice_no": "G-2026-0102",
+    "vendor_name_printed": "Greenleaf Landscaping LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-04",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Landscaping and irrigation upkeep (June 2026)",
+        "quantity": 1,
+        "unit_rate": 2236.86,
+        "amount": 2236.86,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2236.86,
+    "vat": 111.84,
+    "total": 2348.7,
+    "template": 2,
+    "true_contract_id": "C-014",
+    "currency": "USD",
+    "doc_id": "I-0093",
+    "file": "I-0093_Greenleaf_Landscaping_LLC.pdf"
+  },
+  {
+    "invoice_no": "SPC-2026-0101",
+    "vendor_name_printed": "Safeguard Pest Control LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-01-04",
+    "period_start": "2026-01-01",
+    "period_end": "2026-03-31",
+    "lines": [
+      {
+        "description": "Pest control visits, all premises (quarter starting 01 Jan 2026)",
+        "quantity": 1,
+        "unit_rate": 1480.0,
+        "amount": 1480.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1480.0,
+    "vat": 74.0,
+    "total": 1554.0,
+    "template": 1,
+    "true_contract_id": "C-015",
+    "currency": "USD",
+    "doc_id": "I-0094",
+    "file": "I-0094_Safeguard_Pest_Control_LLC.pdf"
+  },
+  {
+    "invoice_no": "SPC-2026-0102",
+    "vendor_name_printed": "Safeguard Pest Control LLC",
+    "agreement_ref": "AGR-2024-205",
+    "invoice_date": "2026-04-05",
+    "period_start": "2026-04-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Pest control visits, all premises (quarter starting 01 Apr 2026)",
+        "quantity": 1,
+        "unit_rate": 1480.0,
+        "amount": 1480.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1480.0,
+    "vat": 74.0,
+    "total": 1554.0,
+    "template": 2,
+    "true_contract_id": "C-015",
+    "currency": "USD",
+    "doc_id": "I-0095",
+    "file": "I-0095_Safeguard_Pest_Control_LLC.pdf"
+  },
+  {
+    "invoice_no": "SPC-2026-0103",
+    "vendor_name_printed": "Safeguard Pest Control LLC",
+    "agreement_ref": "AGR-2024-205",
+    "invoice_date": "2026-07-05",
+    "period_start": "2026-07-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Pest control visits, all premises (quarter starting 01 Jul 2026)",
+        "quantity": 1,
+        "unit_rate": 1480.0,
+        "amount": 1480.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1480.0,
+    "vat": 74.0,
+    "total": 1554.0,
+    "template": 3,
+    "true_contract_id": "C-015",
+    "currency": "USD",
+    "doc_id": "I-0096",
+    "file": "I-0096_Safeguard_Pest_Control_LLC.pdf"
+  },
+  {
+    "invoice_no": "SPC-2026-0104",
+    "vendor_name_printed": "Safeguard Pest Control LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-03",
+    "period_start": "2026-10-01",
+    "period_end": "2026-12-31",
+    "lines": [
+      {
+        "description": "Pest control visits, all premises (quarter starting 01 Oct 2026)",
+        "quantity": 1,
+        "unit_rate": 1480.0,
+        "amount": 1480.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1480.0,
+    "vat": 74.0,
+    "total": 1554.0,
+    "template": 1,
+    "true_contract_id": "C-015",
+    "currency": "USD",
+    "doc_id": "I-0097",
+    "file": "I-0097_Safeguard_Pest_Control_LLC.pdf"
+  },
+  {
+    "invoice_no": "A-2026-0101",
+    "vendor_name_printed": "AquaPure Water Systems LLC",
+    "agreement_ref": "AGR-2026-212",
+    "invoice_date": "2026-06-04",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Water cooler rental and refills (June 2026)",
+        "quantity": 1,
+        "unit_rate": 1150.0,
+        "amount": 1150.0,
+        "kind": "MAIN"
+      },
+      {
+        "description": "One-time installation and setup fee",
+        "quantity": 1,
+        "unit_rate": 3500,
+        "amount": 3500,
+        "kind": "EXTRA"
+      }
+    ],
+    "subtotal": 4650.0,
+    "vat": 232.5,
+    "total": 4882.5,
+    "template": 3,
+    "true_contract_id": "C-016",
+    "currency": "USD",
+    "doc_id": "I-0098",
+    "file": "I-0098_AquaPure_Water_Systems_LLC.pdf"
+  },
+  {
+    "invoice_no": "A-2026-0102",
+    "vendor_name_printed": "AquaPure Water Systems LLC",
+    "agreement_ref": "AGR-2026-212",
+    "invoice_date": "2026-07-01",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Water cooler rental and refills (July 2026)",
+        "quantity": 1,
+        "unit_rate": 1150.0,
+        "amount": 1150.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1150.0,
+    "vat": 57.5,
+    "total": 1207.5,
+    "template": 1,
+    "true_contract_id": "C-016",
+    "currency": "USD",
+    "doc_id": "I-0099",
+    "file": "I-0099_AquaPure_Water_Systems_LLC.pdf"
+  },
+  {
+    "invoice_no": "A-2026-0103",
+    "vendor_name_printed": "AquaPure",
+    "agreement_ref": "AGR-2026-212",
+    "invoice_date": "2026-08-04",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Water cooler rental and refills (August 2026)",
+        "quantity": 1,
+        "unit_rate": 1150.0,
+        "amount": 1150.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1150.0,
+    "vat": 57.5,
+    "total": 1207.5,
+    "template": 2,
+    "true_contract_id": "C-016",
+    "currency": "USD",
+    "doc_id": "I-0100",
+    "file": "I-0100_AquaPure.pdf"
+  },
+  {
+    "invoice_no": "A-2026-0104",
+    "vendor_name_printed": "AquaPure Water Systems LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Water cooler rental and refills (September 2026)",
+        "quantity": 1,
+        "unit_rate": 1150.0,
+        "amount": 1150.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1150.0,
+    "vat": 57.5,
+    "total": 1207.5,
+    "template": 3,
+    "true_contract_id": "C-016",
+    "currency": "USD",
+    "doc_id": "I-0101",
+    "file": "I-0101_AquaPure_Water_Systems_LLC.pdf"
+  },
+  {
+    "invoice_no": "A-2026-0105",
+    "vendor_name_printed": "AquaPure Water Systems LLC",
+    "agreement_ref": "AGR-2026-212",
+    "invoice_date": "2026-10-01",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Water cooler rental and refills (October 2026)",
+        "quantity": 1,
+        "unit_rate": 1150.0,
+        "amount": 1150.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1150.0,
+    "vat": 57.5,
+    "total": 1207.5,
+    "template": 1,
+    "true_contract_id": "C-016",
+    "currency": "USD",
+    "doc_id": "I-0102",
+    "file": "I-0102_AquaPure_Water_Systems_LLC.pdf"
+  },
+  {
+    "invoice_no": "A-2026-0106",
+    "vendor_name_printed": "AquaPure",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-01",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Water cooler rental and refills (November 2026)",
+        "quantity": 1,
+        "unit_rate": 1150.0,
+        "amount": 1150.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 1150.0,
+    "vat": 57.5,
+    "total": 1207.5,
+    "template": 2,
+    "true_contract_id": "C-016",
+    "currency": "USD",
+    "doc_id": "I-0103",
+    "file": "I-0103_AquaPure.pdf"
+  },
+  {
+    "invoice_no": "CW-2026-0101",
+    "vendor_name_printed": "CleanSweep Waste Management LLC",
+    "agreement_ref": "AGR-2024-219",
+    "invoice_date": "2026-05-03",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Waste collection and disposal (May 2026)",
+        "quantity": 1,
+        "unit_rate": 4223.0,
+        "amount": 4223.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4223.0,
+    "vat": 211.15,
+    "total": 4434.15,
+    "template": 1,
+    "true_contract_id": "C-017",
+    "currency": "USD",
+    "doc_id": "I-0104",
+    "file": "I-0104_CleanSweep_Waste_Management_LLC.pdf"
+  },
+  {
+    "invoice_no": "CW-2026-0102",
+    "vendor_name_printed": "CleanSweep Waste Management LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-01",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Waste collection and disposal (June 2026)",
+        "quantity": 1,
+        "unit_rate": 4223.0,
+        "amount": 4223.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4223.0,
+    "vat": 211.15,
+    "total": 4434.15,
+    "template": 2,
+    "true_contract_id": "C-017",
+    "currency": "USD",
+    "doc_id": "I-0105",
+    "file": "I-0105_CleanSweep_Waste_Management_LLC.pdf"
+  },
+  {
+    "invoice_no": "CW-2026-0103",
+    "vendor_name_printed": "CleanSweep Waste Management LLC",
+    "agreement_ref": "AGR-2024-219",
+    "invoice_date": "2026-07-05",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Waste collection and disposal (July 2026)",
+        "quantity": 1,
+        "unit_rate": 4223.0,
+        "amount": 4223.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4223.0,
+    "vat": 211.15,
+    "total": 4434.15,
+    "template": 3,
+    "true_contract_id": "C-017",
+    "currency": "USD",
+    "doc_id": "I-0106",
+    "file": "I-0106_CleanSweep_Waste_Management_LLC.pdf"
+  },
+  {
+    "invoice_no": "CW-2026-0104",
+    "vendor_name_printed": "CleanSweep Waste Management LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-05",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Waste collection and disposal (August 2026)",
+        "quantity": 1,
+        "unit_rate": 4223.0,
+        "amount": 4223.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4223.0,
+    "vat": 211.15,
+    "total": 4434.15,
+    "template": 1,
+    "true_contract_id": "C-017",
+    "currency": "USD",
+    "doc_id": "I-0107",
+    "file": "I-0107_CleanSweep_Waste_Management_LLC.pdf"
+  },
+  {
+    "invoice_no": "CW-2026-0105",
+    "vendor_name_printed": "CleanSweep Waste Management LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-09-05",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Waste collection and disposal (September 2026)",
+        "quantity": 1,
+        "unit_rate": 4349.69,
+        "amount": 4349.69,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4349.69,
+    "vat": 217.48,
+    "total": 4567.17,
+    "template": 2,
+    "true_contract_id": "C-017",
+    "currency": "USD",
+    "doc_id": "I-0108",
+    "file": "I-0108_CleanSweep_Waste_Management_LLC.pdf"
+  },
+  {
+    "invoice_no": "CW-2026-0106",
+    "vendor_name_printed": "CleanSweep Waste",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-03",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Waste collection and disposal (October 2026)",
+        "quantity": 1,
+        "unit_rate": 4349.69,
+        "amount": 4349.69,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4349.69,
+    "vat": 217.48,
+    "total": 4567.17,
+    "template": 3,
+    "true_contract_id": "C-017",
+    "currency": "USD",
+    "doc_id": "I-0109",
+    "file": "I-0109_CleanSweep_Waste.pdf"
+  },
+  {
+    "invoice_no": "CW-2026-0107",
+    "vendor_name_printed": "CleanSweep Waste Management LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Waste collection and disposal (November 2026)",
+        "quantity": 1,
+        "unit_rate": 4349.69,
+        "amount": 4349.69,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4349.69,
+    "vat": 217.48,
+    "total": 4567.17,
+    "template": 1,
+    "true_contract_id": "C-017",
+    "currency": "USD",
+    "doc_id": "I-0110",
+    "file": "I-0110_CleanSweep_Waste_Management_LLC.pdf"
+  },
+  {
+    "invoice_no": "AL-2026-0101",
+    "vendor_name_printed": "Atlas Vehicle Leasing LLC",
+    "agreement_ref": "AGR-2024-226",
+    "invoice_date": "2026-05-02",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Pool vehicle lease (May 2026)",
+        "quantity": 14,
+        "unit_rate": 780.0,
+        "amount": 10920.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10920.0,
+    "vat": 546.0,
+    "total": 11466.0,
+    "template": 3,
+    "true_contract_id": "C-018",
+    "currency": "USD",
+    "doc_id": "I-0111",
+    "file": "I-0111_Atlas_Vehicle_Leasing_LLC.pdf"
+  },
+  {
+    "invoice_no": "AL-2026-0102",
+    "vendor_name_printed": "Atlas Vehicle Leasing LLC",
+    "agreement_ref": "AGR-2024-226",
+    "invoice_date": "2026-06-01",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Pool vehicle lease (June 2026)",
+        "quantity": 14,
+        "unit_rate": 780.0,
+        "amount": 10920.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10920.0,
+    "vat": 546.0,
+    "total": 11466.0,
+    "template": 1,
+    "true_contract_id": "C-018",
+    "currency": "USD",
+    "doc_id": "I-0112",
+    "file": "I-0112_Atlas_Vehicle_Leasing_LLC.pdf"
+  },
+  {
+    "invoice_no": "AL-2026-0103",
+    "vendor_name_printed": "Atlas Vehicle Leasing LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-07-01",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Pool vehicle lease (July 2026)",
+        "quantity": 14,
+        "unit_rate": 780.0,
+        "amount": 10920.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10920.0,
+    "vat": 546.0,
+    "total": 11466.0,
+    "template": 2,
+    "true_contract_id": "C-018",
+    "currency": "USD",
+    "doc_id": "I-0113",
+    "file": "I-0113_Atlas_Vehicle_Leasing_LLC.pdf"
+  },
+  {
+    "invoice_no": "AL-2026-0104",
+    "vendor_name_printed": "Atlas Leasing",
+    "agreement_ref": "AGR-2024-226",
+    "invoice_date": "2026-08-03",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Pool vehicle lease (August 2026)",
+        "quantity": 14,
+        "unit_rate": 780.0,
+        "amount": 10920.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10920.0,
+    "vat": 546.0,
+    "total": 11466.0,
+    "template": 3,
+    "true_contract_id": "C-018",
+    "currency": "USD",
+    "doc_id": "I-0114",
+    "file": "I-0114_Atlas_Leasing.pdf"
+  },
+  {
+    "invoice_no": "AL-2026-0105",
+    "vendor_name_printed": "Atlas Vehicle Leasing LLC",
+    "agreement_ref": "AGR-2024-226",
+    "invoice_date": "2026-09-01",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Pool vehicle lease (September 2026)",
+        "quantity": 14,
+        "unit_rate": 845.0,
+        "amount": 11830.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11830.0,
+    "vat": 591.5,
+    "total": 12421.5,
+    "template": 1,
+    "true_contract_id": "C-018",
+    "currency": "USD",
+    "doc_id": "I-0115",
+    "file": "I-0115_Atlas_Vehicle_Leasing_LLC.pdf"
+  },
+  {
+    "invoice_no": "AL-2026-0106",
+    "vendor_name_printed": "Atlas Vehicle Leasing LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-05",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Pool vehicle lease (October 2026)",
+        "quantity": 14,
+        "unit_rate": 845.0,
+        "amount": 11830.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11830.0,
+    "vat": 591.5,
+    "total": 12421.5,
+    "template": 2,
+    "true_contract_id": "C-018",
+    "currency": "USD",
+    "doc_id": "I-0116",
+    "file": "I-0116_Atlas_Vehicle_Leasing_LLC.pdf"
+  },
+  {
+    "invoice_no": "AL-2026-0107",
+    "vendor_name_printed": "Atlas Vehicle Leasing LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-04",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Pool vehicle lease (November 2026)",
+        "quantity": 14,
+        "unit_rate": 845.0,
+        "amount": 11830.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11830.0,
+    "vat": 591.5,
+    "total": 12421.5,
+    "template": 3,
+    "true_contract_id": "C-018",
+    "currency": "USD",
+    "doc_id": "I-0117",
+    "file": "I-0117_Atlas_Vehicle_Leasing_LLC.pdf"
+  },
+  {
+    "invoice_no": "PL-2026-0101",
+    "vendor_name_printed": "Prism Learning Ltd",
+    "agreement_ref": "AGR-2025-233",
+    "invoice_date": "2025-12-03",
+    "period_start": "2025-12-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Online learning platform licences (year starting 01 Dec 2025)",
+        "quantity": 740,
+        "unit_rate": 96.0,
+        "amount": 71040.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 71040.0,
+    "vat": 3552.0,
+    "total": 74592.0,
+    "template": 2,
+    "true_contract_id": "C-019",
+    "currency": "USD",
+    "doc_id": "I-0118",
+    "file": "I-0118_Prism_Learning_Ltd.pdf"
+  },
+  {
+    "invoice_no": "L-2026-0101",
+    "vendor_name_printed": "Ledgerline Audit Support LLC",
+    "agreement_ref": "AGR-2025-240",
+    "invoice_date": "2025-11-16",
+    "period_start": "2025-11-15",
+    "period_end": "2026-11-14",
+    "lines": [
+      {
+        "description": "Annual audit support retainer (year starting 15 Nov 2025)",
+        "quantity": 1,
+        "unit_rate": 36000.0,
+        "amount": 36000.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 36000.0,
+    "vat": 1800.0,
+    "total": 37800.0,
+    "template": 1,
+    "true_contract_id": "C-020",
+    "currency": "USD",
+    "doc_id": "I-0119",
+    "file": "I-0119_Ledgerline_Audit_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "L-2026-0101",
+    "vendor_name_printed": "Ledgerline Audit Support LLC",
+    "agreement_ref": "AGR-2025-240",
+    "invoice_date": "2025-11-24",
+    "period_start": "2025-11-15",
+    "period_end": "2026-11-14",
+    "lines": [
+      {
+        "description": "Annual audit support retainer (year starting 15 Nov 2025)",
+        "quantity": 1,
+        "unit_rate": 36000.0,
+        "amount": 36000.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 36000.0,
+    "vat": 1800.0,
+    "total": 37800.0,
+    "template": 1,
+    "true_contract_id": "C-020",
+    "currency": "USD",
+    "doc_id": "I-0120",
+    "file": "I-0120_Ledgerline_Audit_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "NB-2026-0101",
+    "vendor_name_printed": "Northgate Insurance Brokers LLC",
+    "agreement_ref": "AGR-2024-247",
+    "invoice_date": "2026-03-18",
+    "period_start": "2026-03-15",
+    "period_end": "2027-03-14",
+    "lines": [
+      {
+        "description": "Insurance brokerage and claims handling fee (year starting 15 Mar 2026)",
+        "quantity": 1,
+        "unit_rate": 23339.8,
+        "amount": 23339.8,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 23339.8,
+    "vat": 1166.99,
+    "total": 24506.79,
+    "template": 1,
+    "true_contract_id": "C-021",
+    "currency": "USD",
+    "doc_id": "I-0121",
+    "file": "I-0121_Northgate_Insurance_Brokers_LLC.pdf"
+  },
+  {
+    "invoice_no": "VFS-2026-0101",
+    "vendor_name_printed": "Vertex Fire Safety LLC",
+    "agreement_ref": "AGR-2023-254",
+    "invoice_date": "2026-05-01",
+    "period_start": "2026-05-01",
+    "period_end": "2027-04-30",
+    "lines": [
+      {
+        "description": "Annual fire safety inspection and certification (year starting 01 May 2026)",
+        "quantity": 1,
+        "unit_rate": 8774.07,
+        "amount": 8774.07,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8774.07,
+    "vat": 438.7,
+    "total": 9212.77,
+    "template": 3,
+    "true_contract_id": "C-022",
+    "currency": "USD",
+    "doc_id": "I-0122",
+    "file": "I-0122_Vertex_Fire_Safety_LLC.pdf"
+  },
+  {
+    "invoice_no": "ZE-2026-0101",
+    "vendor_name_printed": "Zenith Elevators",
+    "agreement_ref": null,
+    "invoice_date": "2026-01-04",
+    "period_start": "2026-01-01",
+    "period_end": "2026-03-31",
+    "lines": [
+      {
+        "description": "Elevator maintenance, six lifts (quarter starting 01 Jan 2026)",
+        "quantity": 1,
+        "unit_rate": 4017.0,
+        "amount": 4017.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4017.0,
+    "vat": 200.85,
+    "total": 4217.85,
+    "template": 2,
+    "true_contract_id": "C-023",
+    "currency": "USD",
+    "doc_id": "I-0123",
+    "file": "I-0123_Zenith_Elevators.pdf"
+  },
+  {
+    "invoice_no": "ZE-2026-0102",
+    "vendor_name_printed": "Zenith Elevator Services LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-04-04",
+    "period_start": "2026-04-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Elevator maintenance, six lifts (quarter starting 01 Apr 2026)",
+        "quantity": 1,
+        "unit_rate": 4017.0,
+        "amount": 4017.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4017.0,
+    "vat": 200.85,
+    "total": 4217.85,
+    "template": 3,
+    "true_contract_id": "C-023",
+    "currency": "USD",
+    "doc_id": "I-0124",
+    "file": "I-0124_Zenith_Elevator_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "ZE-2026-0103",
+    "vendor_name_printed": "Zenith Elevators",
+    "agreement_ref": "AGR-2025-261",
+    "invoice_date": "2026-07-04",
+    "period_start": "2026-07-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Elevator maintenance, six lifts (quarter starting 01 Jul 2026)",
+        "quantity": 1,
+        "unit_rate": 4017.0,
+        "amount": 4017.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4017.0,
+    "vat": 200.85,
+    "total": 4217.85,
+    "template": 1,
+    "true_contract_id": "C-023",
+    "currency": "USD",
+    "doc_id": "I-0125",
+    "file": "I-0125_Zenith_Elevators.pdf"
+  },
+  {
+    "invoice_no": "ZE-2026-0104",
+    "vendor_name_printed": "Zenith Elevators",
+    "agreement_ref": "AGR-2025-261",
+    "invoice_date": "2026-10-03",
+    "period_start": "2026-10-01",
+    "period_end": "2026-12-31",
+    "lines": [
+      {
+        "description": "Elevator maintenance, six lifts (quarter starting 01 Oct 2026)",
+        "quantity": 1,
+        "unit_rate": 4017.0,
+        "amount": 4017.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 4017.0,
+    "vat": 200.85,
+    "total": 4217.85,
+    "template": 2,
+    "true_contract_id": "C-023",
+    "currency": "USD",
+    "doc_id": "I-0126",
+    "file": "I-0126_Zenith_Elevators.pdf"
+  },
+  {
+    "invoice_no": "HC-2026-0101",
+    "vendor_name_printed": "Harbor Catering",
+    "agreement_ref": "AGR-2025-268",
+    "invoice_date": "2026-05-02",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Staff canteen catering (May 2026)",
+        "quantity": 1,
+        "unit_rate": 11200.0,
+        "amount": 11200.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11200.0,
+    "vat": 560.0,
+    "total": 11760.0,
+    "template": 1,
+    "true_contract_id": "C-024",
+    "currency": "USD",
+    "doc_id": "I-0127",
+    "file": "I-0127_Harbor_Catering.pdf"
+  },
+  {
+    "invoice_no": "HC-2026-0102",
+    "vendor_name_printed": "Harbor Catering Services LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-01",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Staff canteen catering (June 2026)",
+        "quantity": 1,
+        "unit_rate": 11200.0,
+        "amount": 11200.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11200.0,
+    "vat": 560.0,
+    "total": 11760.0,
+    "template": 2,
+    "true_contract_id": "C-024",
+    "currency": "USD",
+    "doc_id": "I-0128",
+    "file": "I-0128_Harbor_Catering_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "HC-2026-0103",
+    "vendor_name_printed": "Harbor Catering",
+    "agreement_ref": "AGR-2025-268",
+    "invoice_date": "2026-07-05",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Staff canteen catering (July 2026)",
+        "quantity": 1,
+        "unit_rate": 11200.0,
+        "amount": 11200.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11200.0,
+    "vat": 560.0,
+    "total": 11760.0,
+    "template": 3,
+    "true_contract_id": "C-024",
+    "currency": "USD",
+    "doc_id": "I-0129",
+    "file": "I-0129_Harbor_Catering.pdf"
+  },
+  {
+    "invoice_no": "HC-2026-0104",
+    "vendor_name_printed": "Harbor Catering Services LLC",
+    "agreement_ref": "AGR-2025-268",
+    "invoice_date": "2026-08-02",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Staff canteen catering (August 2026)",
+        "quantity": 1,
+        "unit_rate": 11536.0,
+        "amount": 11536.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11536.0,
+    "vat": 576.8,
+    "total": 12112.8,
+    "template": 1,
+    "true_contract_id": "C-024",
+    "currency": "USD",
+    "doc_id": "I-0130",
+    "file": "I-0130_Harbor_Catering_Services_LLC.pdf"
+  },
+  {
+    "invoice_no": "HC-2026-0105",
+    "vendor_name_printed": "Harbor Catering",
+    "agreement_ref": "AGR-2025-268",
+    "invoice_date": "2026-09-05",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Staff canteen catering (September 2026)",
+        "quantity": 1,
+        "unit_rate": 11536.0,
+        "amount": 11536.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 11536.0,
+    "vat": 576.8,
+    "total": 12112.8,
+    "template": 2,
+    "true_contract_id": "C-024",
+    "currency": "USD",
+    "doc_id": "I-0131",
+    "file": "I-0131_Harbor_Catering.pdf"
+  },
+  {
+    "invoice_no": "HC-2026-0106",
+    "vendor_name_printed": "Harbor Catering",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-05",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Staff canteen catering (October 2026)",
+        "quantity": 1,
+        "unit_rate": 11536.0,
+        "amount": 11536.0,
+        "kind": "MAIN"
+      },
+      {
+        "description": "Delivery surcharge",
+        "quantity": 1,
+        "unit_rate": 560.0,
+        "amount": 560.0,
+        "kind": "EXTRA"
+      }
+    ],
+    "subtotal": 12096.0,
+    "vat": 604.8,
+    "total": 12700.8,
+    "template": 3,
+    "true_contract_id": "C-024",
+    "currency": "USD",
+    "doc_id": "I-0132",
+    "file": "I-0132_Harbor_Catering.pdf"
+  },
+  {
+    "invoice_no": "HC-2026-0107",
+    "vendor_name_printed": "Harbor Catering",
+    "agreement_ref": "AGR-2025-268",
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Staff canteen catering (November 2026)",
+        "quantity": 1,
+        "unit_rate": 11536.0,
+        "amount": 11536.0,
+        "kind": "MAIN"
+      },
+      {
+        "description": "Delivery surcharge",
+        "quantity": 1,
+        "unit_rate": 560.0,
+        "amount": 560.0,
+        "kind": "EXTRA"
+      }
+    ],
+    "subtotal": 12096.0,
+    "vat": 604.8,
+    "total": 12700.8,
+    "template": 1,
+    "true_contract_id": "C-024",
+    "currency": "USD",
+    "doc_id": "I-0133",
+    "file": "I-0133_Harbor_Catering.pdf"
+  },
+  {
+    "invoice_no": "PS-2026-0101",
+    "vendor_name_printed": "Pioneer Shuttle Transport LLC",
+    "agreement_ref": "AGR-2025-275",
+    "invoice_date": "2026-05-01",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Staff shuttle bus service (May 2026)",
+        "quantity": 1,
+        "unit_rate": 8300.0,
+        "amount": 8300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8300.0,
+    "vat": 415.0,
+    "total": 8715.0,
+    "template": 3,
+    "true_contract_id": "C-025",
+    "currency": "USD",
+    "doc_id": "I-0134",
+    "file": "I-0134_Pioneer_Shuttle_Transport_LLC.pdf"
+  },
+  {
+    "invoice_no": "PS-2026-0102",
+    "vendor_name_printed": "Pioneer Shuttle Transport LLC",
+    "agreement_ref": "AGR-2025-275",
+    "invoice_date": "2026-06-05",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Staff shuttle bus service (June 2026)",
+        "quantity": 1,
+        "unit_rate": 8300.0,
+        "amount": 8300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8300.0,
+    "vat": 415.0,
+    "total": 8715.0,
+    "template": 1,
+    "true_contract_id": "C-025",
+    "currency": "USD",
+    "doc_id": "I-0135",
+    "file": "I-0135_Pioneer_Shuttle_Transport_LLC.pdf"
+  },
+  {
+    "invoice_no": "PS-2026-0103",
+    "vendor_name_printed": "Pioneer Shuttle Transport LLC",
+    "agreement_ref": "AGR-2025-275",
+    "invoice_date": "2026-07-01",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Staff shuttle bus service (July 2026)",
+        "quantity": 1,
+        "unit_rate": 8300.0,
+        "amount": 8300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8300.0,
+    "vat": 415.0,
+    "total": 8715.0,
+    "template": 2,
+    "true_contract_id": "C-025",
+    "currency": "USD",
+    "doc_id": "I-0136",
+    "file": "I-0136_Pioneer_Shuttle_Transport_LLC.pdf"
+  },
+  {
+    "invoice_no": "PS-2026-0104",
+    "vendor_name_printed": "Pioneer Shuttle Transport LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-08-05",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Staff shuttle bus service (August 2026)",
+        "quantity": 1,
+        "unit_rate": 8300.0,
+        "amount": 8300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8300.0,
+    "vat": 415.0,
+    "total": 8715.0,
+    "template": 3,
+    "true_contract_id": "C-025",
+    "currency": "USD",
+    "doc_id": "I-0137",
+    "file": "I-0137_Pioneer_Shuttle_Transport_LLC.pdf"
+  },
+  {
+    "invoice_no": "PS-2026-0105",
+    "vendor_name_printed": "Pioneer Shuttle",
+    "agreement_ref": "AGR-2025-275",
+    "invoice_date": "2026-09-01",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Staff shuttle bus service (September 2026)",
+        "quantity": 1,
+        "unit_rate": 8300.0,
+        "amount": 8300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8300.0,
+    "vat": 415.0,
+    "total": 8715.0,
+    "template": 1,
+    "true_contract_id": "C-025",
+    "currency": "USD",
+    "doc_id": "I-0138",
+    "file": "I-0138_Pioneer_Shuttle.pdf"
+  },
+  {
+    "invoice_no": "PS-2026-0106",
+    "vendor_name_printed": "Pioneer Shuttle Transport LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-10-04",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Staff shuttle bus service (October 2026)",
+        "quantity": 1,
+        "unit_rate": 8300.0,
+        "amount": 8300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8300.0,
+    "vat": 415.0,
+    "total": 8715.0,
+    "template": 2,
+    "true_contract_id": "C-025",
+    "currency": "USD",
+    "doc_id": "I-0139",
+    "file": "I-0139_Pioneer_Shuttle_Transport_LLC.pdf"
+  },
+  {
+    "invoice_no": "PS-2026-0107",
+    "vendor_name_printed": "Pioneer Shuttle Transport LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-02",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Staff shuttle bus service (November 2026)",
+        "quantity": 1,
+        "unit_rate": 8300.0,
+        "amount": 8300.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 8300.0,
+    "vat": 415.0,
+    "total": 8715.0,
+    "template": 3,
+    "true_contract_id": "C-025",
+    "currency": "USD",
+    "doc_id": "I-0140",
+    "file": "I-0140_Pioneer_Shuttle_Transport_LLC.pdf"
+  },
+  {
+    "invoice_no": "OU-2026-0101",
+    "vendor_name_printed": "Orchid Uniforms and Linen LLC",
+    "agreement_ref": "AGR-2024-282",
+    "invoice_date": "2026-01-03",
+    "period_start": "2026-01-01",
+    "period_end": "2026-03-31",
+    "lines": [
+      {
+        "description": "Uniform supply and laundering (quarter starting 01 Jan 2026)",
+        "quantity": 1,
+        "unit_rate": 2750.0,
+        "amount": 2750.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2750.0,
+    "vat": 137.5,
+    "total": 2887.5,
+    "template": 2,
+    "true_contract_id": "C-026",
+    "currency": "USD",
+    "doc_id": "I-0141",
+    "file": "I-0141_Orchid_Uniforms_and_Linen_LLC.pdf"
+  },
+  {
+    "invoice_no": "OU-2026-0102",
+    "vendor_name_printed": "Orchid Uniforms and Linen LLC",
+    "agreement_ref": "AGR-2024-282",
+    "invoice_date": "2026-04-05",
+    "period_start": "2026-04-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Uniform supply and laundering (quarter starting 01 Apr 2026)",
+        "quantity": 1,
+        "unit_rate": 2750.0,
+        "amount": 2750.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2750.0,
+    "vat": 137.5,
+    "total": 2887.5,
+    "template": 3,
+    "true_contract_id": "C-026",
+    "currency": "USD",
+    "doc_id": "I-0142",
+    "file": "I-0142_Orchid_Uniforms_and_Linen_LLC.pdf"
+  },
+  {
+    "invoice_no": "OU-2026-0103",
+    "vendor_name_printed": "Orchid Uniforms",
+    "agreement_ref": "AGR-2024-282",
+    "invoice_date": "2026-07-01",
+    "period_start": "2026-07-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Uniform supply and laundering (quarter starting 01 Jul 2026)",
+        "quantity": 1,
+        "unit_rate": 2750.0,
+        "amount": 2750.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2750.0,
+    "vat": 137.5,
+    "total": 2887.5,
+    "template": 1,
+    "true_contract_id": "C-026",
+    "currency": "USD",
+    "doc_id": "I-0143",
+    "file": "I-0143_Orchid_Uniforms.pdf"
+  },
+  {
+    "invoice_no": "OU-2026-0104",
+    "vendor_name_printed": "Orchid Uniforms",
+    "agreement_ref": "AGR-2024-282",
+    "invoice_date": "2026-10-01",
+    "period_start": "2026-10-01",
+    "period_end": "2026-12-31",
+    "lines": [
+      {
+        "description": "Uniform supply and laundering (quarter starting 01 Oct 2026)",
+        "quantity": 1,
+        "unit_rate": 2750.0,
+        "amount": 2750.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 2750.0,
+    "vat": 137.5,
+    "total": 2887.5,
+    "template": 2,
+    "true_contract_id": "C-026",
+    "currency": "USD",
+    "doc_id": "I-0144",
+    "file": "I-0144_Orchid_Uniforms.pdf"
+  },
+  {
+    "invoice_no": "D-2026-0101",
+    "vendor_name_printed": "DataVault Backup Services Ltd",
+    "agreement_ref": null,
+    "invoice_date": "2026-05-02",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Cloud backup storage (May 2026)",
+        "quantity": 220,
+        "unit_rate": 42.64,
+        "amount": 9380.8,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 9380.8,
+    "vat": 469.04,
+    "total": 9849.84,
+    "template": 1,
+    "true_contract_id": "C-027",
+    "currency": "USD",
+    "doc_id": "I-0145",
+    "file": "I-0145_DataVault_Backup_Services_Ltd.pdf"
+  },
+  {
+    "invoice_no": "D-2026-0102",
+    "vendor_name_printed": "DataVault Backup Services Ltd",
+    "agreement_ref": "AGR-2025-289",
+    "invoice_date": "2026-06-03",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Cloud backup storage (June 2026)",
+        "quantity": 223,
+        "unit_rate": 42.64,
+        "amount": 9508.72,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 9508.72,
+    "vat": 475.44,
+    "total": 9984.16,
+    "template": 2,
+    "true_contract_id": "C-027",
+    "currency": "USD",
+    "doc_id": "I-0146",
+    "file": "I-0146_DataVault_Backup_Services_Ltd.pdf"
+  },
+  {
+    "invoice_no": "D-2026-0103",
+    "vendor_name_printed": "DataVault",
+    "agreement_ref": "AGR-2025-289",
+    "invoice_date": "2026-07-04",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Cloud backup storage (July 2026)",
+        "quantity": 226,
+        "unit_rate": 42.64,
+        "amount": 9636.64,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 9636.64,
+    "vat": 481.83,
+    "total": 10118.47,
+    "template": 3,
+    "true_contract_id": "C-027",
+    "currency": "USD",
+    "doc_id": "I-0147",
+    "file": "I-0147_DataVault.pdf"
+  },
+  {
+    "invoice_no": "D-2026-0104",
+    "vendor_name_printed": "DataVault Backup Services Ltd",
+    "agreement_ref": "AGR-2025-289",
+    "invoice_date": "2026-08-04",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Cloud backup storage (August 2026)",
+        "quantity": 229,
+        "unit_rate": 42.64,
+        "amount": 9764.56,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 9764.56,
+    "vat": 488.23,
+    "total": 10252.79,
+    "template": 1,
+    "true_contract_id": "C-027",
+    "currency": "USD",
+    "doc_id": "I-0148",
+    "file": "I-0148_DataVault_Backup_Services_Ltd.pdf"
+  },
+  {
+    "invoice_no": "D-2026-0105",
+    "vendor_name_printed": "DataVault Backup Services Ltd",
+    "agreement_ref": "AGR-2025-289",
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Cloud backup storage (September 2026)",
+        "quantity": 232,
+        "unit_rate": 42.64,
+        "amount": 9892.48,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 9892.48,
+    "vat": 494.62,
+    "total": 10387.1,
+    "template": 2,
+    "true_contract_id": "C-027",
+    "currency": "USD",
+    "doc_id": "I-0149",
+    "file": "I-0149_DataVault_Backup_Services_Ltd.pdf"
+  },
+  {
+    "invoice_no": "D-2026-0106",
+    "vendor_name_printed": "DataVault",
+    "agreement_ref": "AGR-2025-289",
+    "invoice_date": "2026-10-02",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Cloud backup storage (October 2026)",
+        "quantity": 235,
+        "unit_rate": 42.64,
+        "amount": 10020.4,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10020.4,
+    "vat": 501.02,
+    "total": 10521.42,
+    "template": 3,
+    "true_contract_id": "C-027",
+    "currency": "USD",
+    "doc_id": "I-0150",
+    "file": "I-0150_DataVault.pdf"
+  },
+  {
+    "invoice_no": "D-2026-0107",
+    "vendor_name_printed": "DataVault Backup Services Ltd",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-05",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Cloud backup storage (November 2026)",
+        "quantity": 238,
+        "unit_rate": 42.64,
+        "amount": 10148.32,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 10148.32,
+    "vat": 507.42,
+    "total": 10655.74,
+    "template": 1,
+    "true_contract_id": "C-027",
+    "currency": "USD",
+    "doc_id": "I-0151",
+    "file": "I-0151_DataVault_Backup_Services_Ltd.pdf"
+  },
+  {
+    "invoice_no": "SR-2026-0101",
+    "vendor_name_printed": "Summit Recruitment Technology Ltd",
+    "agreement_ref": "AGR-2025-296",
+    "invoice_date": "2025-12-10",
+    "period_start": "2025-12-10",
+    "period_end": "2026-12-09",
+    "lines": [
+      {
+        "description": "Applicant tracking system subscription (year starting 10 Dec 2025)",
+        "quantity": 1,
+        "unit_rate": 15500.0,
+        "amount": 15500.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 15500.0,
+    "vat": 775.0,
+    "total": 16275.0,
+    "template": 3,
+    "true_contract_id": "C-028",
+    "currency": "USD",
+    "doc_id": "I-0152",
+    "file": "I-0152_Summit_Recruitment_Technology_Ltd.pdf"
+  },
+  {
+    "invoice_no": "CL-2026-0101",
+    "vendor_name_printed": "Crestline Legal",
+    "agreement_ref": null,
+    "invoice_date": "2026-05-04",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "General legal retainer (May 2026)",
+        "quantity": 1,
+        "unit_rate": 6695.0,
+        "amount": 6695.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6695.0,
+    "vat": 334.75,
+    "total": 7029.75,
+    "template": 2,
+    "true_contract_id": "C-029",
+    "currency": "USD",
+    "doc_id": "I-0153",
+    "file": "I-0153_Crestline_Legal.pdf"
+  },
+  {
+    "invoice_no": "CL-2026-0102",
+    "vendor_name_printed": "Crestline Legal Advisors LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-03",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "General legal retainer (June 2026)",
+        "quantity": 1,
+        "unit_rate": 6695.0,
+        "amount": 6695.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6695.0,
+    "vat": 334.75,
+    "total": 7029.75,
+    "template": 3,
+    "true_contract_id": "C-029",
+    "currency": "USD",
+    "doc_id": "I-0154",
+    "file": "I-0154_Crestline_Legal_Advisors_LLC.pdf"
+  },
+  {
+    "invoice_no": "CL-2026-0103",
+    "vendor_name_printed": "Crestline Legal",
+    "agreement_ref": "AGR-2024-303",
+    "invoice_date": "2026-07-04",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "General legal retainer (July 2026)",
+        "quantity": 1,
+        "unit_rate": 6695.0,
+        "amount": 6695.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6695.0,
+    "vat": 334.75,
+    "total": 7029.75,
+    "template": 1,
+    "true_contract_id": "C-029",
+    "currency": "USD",
+    "doc_id": "I-0155",
+    "file": "I-0155_Crestline_Legal.pdf"
+  },
+  {
+    "invoice_no": "CL-2026-0104",
+    "vendor_name_printed": "Crestline Legal Advisors LLC",
+    "agreement_ref": "AGR-2024-303",
+    "invoice_date": "2026-08-05",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "General legal retainer (August 2026)",
+        "quantity": 1,
+        "unit_rate": 6695.0,
+        "amount": 6695.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6695.0,
+    "vat": 334.75,
+    "total": 7029.75,
+    "template": 2,
+    "true_contract_id": "C-029",
+    "currency": "USD",
+    "doc_id": "I-0156",
+    "file": "I-0156_Crestline_Legal_Advisors_LLC.pdf"
+  },
+  {
+    "invoice_no": "CL-2026-0105",
+    "vendor_name_printed": "Crestline Legal Advisors LLC",
+    "agreement_ref": "AGR-2024-303",
+    "invoice_date": "2026-09-02",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "General legal retainer (September 2026)",
+        "quantity": 1,
+        "unit_rate": 6695.0,
+        "amount": 6695.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 7345.0,
+    "vat": 367.25,
+    "total": 7712.25,
+    "template": 3,
+    "true_contract_id": "C-029",
+    "currency": "USD",
+    "doc_id": "I-0157",
+    "file": "I-0157_Crestline_Legal_Advisors_LLC.pdf"
+  },
+  {
+    "invoice_no": "CL-2026-0106",
+    "vendor_name_printed": "Crestline Legal Advisors LLC",
+    "agreement_ref": "AGR-2024-303",
+    "invoice_date": "2026-10-02",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "General legal retainer (October 2026)",
+        "quantity": 1,
+        "unit_rate": 6695.0,
+        "amount": 6695.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6695.0,
+    "vat": 334.75,
+    "total": 7029.75,
+    "template": 1,
+    "true_contract_id": "C-029",
+    "currency": "USD",
+    "doc_id": "I-0158",
+    "file": "I-0158_Crestline_Legal_Advisors_LLC.pdf"
+  },
+  {
+    "invoice_no": "CL-2026-0107",
+    "vendor_name_printed": "Crestline Legal Advisors LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-11-03",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "General legal retainer (November 2026)",
+        "quantity": 1,
+        "unit_rate": 6695.0,
+        "amount": 6695.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 6695.0,
+    "vat": 334.75,
+    "total": 7029.75,
+    "template": 2,
+    "true_contract_id": "C-029",
+    "currency": "USD",
+    "doc_id": "I-0159",
+    "file": "I-0159_Crestline_Legal_Advisors_LLC.pdf"
+  },
+  {
+    "invoice_no": "ES-2026-0101",
+    "vendor_name_printed": "Ember Staffing Support LLC",
+    "agreement_ref": "AGR-2025-310",
+    "invoice_date": "2026-05-01",
+    "period_start": "2026-05-01",
+    "period_end": "2026-05-31",
+    "lines": [
+      {
+        "description": "Contract support staff (May 2026)",
+        "quantity": 6,
+        "unit_rate": 4480.5,
+        "amount": 26883.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 26883.0,
+    "vat": 1344.15,
+    "total": 28227.15,
+    "template": 1,
+    "true_contract_id": "C-030",
+    "currency": "USD",
+    "doc_id": "I-0160",
+    "file": "I-0160_Ember_Staffing_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "ES-2026-0102",
+    "vendor_name_printed": "Ember Staffing Support LLC",
+    "agreement_ref": null,
+    "invoice_date": "2026-06-05",
+    "period_start": "2026-06-01",
+    "period_end": "2026-06-30",
+    "lines": [
+      {
+        "description": "Contract support staff (June 2026)",
+        "quantity": 6,
+        "unit_rate": 4480.5,
+        "amount": 26883.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 26883.0,
+    "vat": 1344.15,
+    "total": 28227.15,
+    "template": 2,
+    "true_contract_id": "C-030",
+    "currency": "USD",
+    "doc_id": "I-0161",
+    "file": "I-0161_Ember_Staffing_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "ES-2026-0103",
+    "vendor_name_printed": "Ember Staffing Support LLC",
+    "agreement_ref": "AGR-2025-310",
+    "invoice_date": "2026-07-04",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-31",
+    "lines": [
+      {
+        "description": "Contract support staff (July 2026)",
+        "quantity": 6,
+        "unit_rate": 4480.5,
+        "amount": 26883.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 26883.0,
+    "vat": 1344.15,
+    "total": 28227.15,
+    "template": 3,
+    "true_contract_id": "C-030",
+    "currency": "USD",
+    "doc_id": "I-0162",
+    "file": "I-0162_Ember_Staffing_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "ES-2026-0104",
+    "vendor_name_printed": "Ember Staffing Support LLC",
+    "agreement_ref": "AGR-2025-310",
+    "invoice_date": "2026-08-05",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-31",
+    "lines": [
+      {
+        "description": "Contract support staff (August 2026)",
+        "quantity": 6,
+        "unit_rate": 4480.5,
+        "amount": 26883.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 26883.0,
+    "vat": 1344.15,
+    "total": 28227.15,
+    "template": 1,
+    "true_contract_id": "C-030",
+    "currency": "USD",
+    "doc_id": "I-0163",
+    "file": "I-0163_Ember_Staffing_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "ES-2026-0105",
+    "vendor_name_printed": "Ember Staffing Support LLC",
+    "agreement_ref": "AGR-2025-310",
+    "invoice_date": "2026-09-03",
+    "period_start": "2026-09-01",
+    "period_end": "2026-09-30",
+    "lines": [
+      {
+        "description": "Contract support staff (September 2026)",
+        "quantity": 6,
+        "unit_rate": 4480.5,
+        "amount": 26883.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 26883.0,
+    "vat": 1344.15,
+    "total": 28227.15,
+    "template": 2,
+    "true_contract_id": "C-030",
+    "currency": "USD",
+    "doc_id": "I-0164",
+    "file": "I-0164_Ember_Staffing_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "ES-2026-0106",
+    "vendor_name_printed": "Ember Staffing Support LLC",
+    "agreement_ref": "AGR-2025-310",
+    "invoice_date": "2026-10-02",
+    "period_start": "2026-10-01",
+    "period_end": "2026-10-31",
+    "lines": [
+      {
+        "description": "Contract support staff (October 2026)",
+        "quantity": 6,
+        "unit_rate": 4480.5,
+        "amount": 26883.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 26883.0,
+    "vat": 1344.15,
+    "total": 28457.15,
+    "template": 3,
+    "true_contract_id": "C-030",
+    "currency": "USD",
+    "doc_id": "I-0165",
+    "file": "I-0165_Ember_Staffing_Support_LLC.pdf"
+  },
+  {
+    "invoice_no": "ES-2026-0107",
+    "vendor_name_printed": "Ember Staffing Support LLC",
+    "agreement_ref": "AGR-2025-310",
+    "invoice_date": "2026-11-05",
+    "period_start": "2026-11-01",
+    "period_end": "2026-11-30",
+    "lines": [
+      {
+        "description": "Contract support staff (November 2026)",
+        "quantity": 6,
+        "unit_rate": 4480.5,
+        "amount": 26883.0,
+        "kind": "MAIN"
+      }
+    ],
+    "subtotal": 26883.0,
+    "vat": 1344.15,
+    "total": 28227.15,
+    "template": 1,
+    "true_contract_id": "C-030",
+    "currency": "USD",
+    "doc_id": "I-0166",
+    "file": "I-0166_Ember_Staffing_Support_LLC.pdf"
+  }
+]

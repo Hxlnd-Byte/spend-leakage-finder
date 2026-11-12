@@ -1,0 +1,29 @@
+doc_id,file,invoice_no,contract_id,leak_type,overcharge_usd,explanation
+I-0007,I-0007_Bluepeak_Cloud_Hosting_FZ_LLC.pdf,BH-2026-0107,C-001,DUPLICATE,15064.78,Same period billed twice
+I-0020,I-0020_Meridian_Cleaning_Services_LLC.pdf,MC-2026-0105,C-003,RATE_OVER,1040.5,Rate is higher than the contract allows
+I-0021,I-0021_Meridian_Cleaning_Services_LLC.pdf,MC-2026-0106,C-003,RATE_OVER,1040.5,Rate is higher than the contract allows
+I-0022,I-0022_Meridian_Cleaning.pdf,MC-2026-0107,C-003,RATE_OVER,1040.5,Rate is higher than the contract allows
+I-0034,I-0034_Tessera_CRM_Systems_Ltd.pdf,TC-2026-0105,C-005,QTY_OVER,1184.04,Quantity billed is above the contract maximum
+I-0035,I-0035_Tessera_CRM_Systems_Ltd.pdf,TC-2026-0106,C-005,QTY_OVER,1184.04,Quantity billed is above the contract maximum
+I-0036,I-0036_Tessera_CRM.pdf,TC-2026-0107,C-005,QTY_OVER,1184.04,Quantity billed is above the contract maximum
+I-0041,I-0041_Orbix_Security.pdf,OS-2026-0104,C-006,DUPLICATE,5943.0,Same period billed twice
+I-0055,I-0055_PrintWorks_Managed_Print_LLC.pdf,P-2026-0104,C-008,SURCHARGE,192.0,Charge that the contract does not allow
+I-0056,I-0056_PrintWorks_Managed_Print_LLC.pdf,P-2026-0105,C-008,SURCHARGE,192.0,Charge that the contract does not allow
+I-0057,I-0057_PrintWorks.pdf,P-2026-0106,C-008,SURCHARGE,192.0,Charge that the contract does not allow
+I-0058,I-0058_PrintWorks_Managed_Print_LLC.pdf,P-2026-0107,C-008,SURCHARGE,192.0,Charge that the contract does not allow
+I-0070,I-0070_Cobalt_Facilities_Maintenance_LLC.pdf,CF-2026-0105,C-010,POST_EXPIRY,10654.09,Billed after the contract ended (no renewal clause)
+I-0071,I-0071_Cobalt_Facilities_Maintenance_LLC.pdf,CF-2026-0106,C-010,POST_EXPIRY,10654.09,Billed after the contract ended (no renewal clause)
+I-0072,I-0072_Cobalt_Facilities.pdf,CF-2026-0107,C-010,POST_EXPIRY,10654.09,Billed after the contract ended (no renewal clause)
+I-0083,I-0083_NetAxis.pdf,N-2026-0104,C-012,DUPLICATE,51081.8,Same period billed twice
+I-0115,I-0115_Atlas_Vehicle_Leasing_LLC.pdf,AL-2026-0105,C-018,RATE_OVER,910.0,Rate is higher than the contract allows
+I-0116,I-0116_Atlas_Vehicle_Leasing_LLC.pdf,AL-2026-0106,C-018,RATE_OVER,910.0,Rate is higher than the contract allows
+I-0117,I-0117_Atlas_Vehicle_Leasing_LLC.pdf,AL-2026-0107,C-018,RATE_OVER,910.0,Rate is higher than the contract allows
+I-0118,I-0118_Prism_Learning_Ltd.pdf,PL-2026-0101,C-019,QTY_OVER,3840.0,Quantity billed is above the contract maximum
+I-0120,I-0120_Ledgerline_Audit_Support_LLC.pdf,L-2026-0101,C-020,DUPLICATE,36000.0,Same period billed twice
+I-0122,I-0122_Vertex_Fire_Safety_LLC.pdf,VFS-2026-0101,C-022,RATE_OVER,496.65,Rate is higher than the contract allows
+I-0132,I-0132_Harbor_Catering.pdf,HC-2026-0106,C-024,SURCHARGE,560.0,Charge that the contract does not allow
+I-0133,I-0133_Harbor_Catering.pdf,HC-2026-0107,C-024,SURCHARGE,560.0,Charge that the contract does not allow
+I-0143,I-0143_Orchid_Uniforms.pdf,OU-2026-0103,C-026,POST_EXPIRY,2750.0,Billed after the contract ended (no renewal clause)
+I-0144,I-0144_Orchid_Uniforms.pdf,OU-2026-0104,C-026,POST_EXPIRY,2750.0,Billed after the contract ended (no renewal clause)
+I-0157,I-0157_Crestline_Legal_Advisors_LLC.pdf,CL-2026-0105,C-029,MATH_ERROR,650.0,Invoice arithmetic does not add up
+I-0165,I-0165_Ember_Staffing_Support_LLC.pdf,ES-2026-0106,C-030,MATH_ERROR,230.0,Invoice arithmetic does not add up

@@ -1,0 +1,44 @@
+{
+  "contracts": 30,
+  "invoices": 166,
+  "flagged_invoices": 28,
+  "flagged_share": 0.1687,
+  "total_billed_ex_vat": 2038704.79,
+  "planted_leakage_ex_vat": 162060.12,
+  "leakage_share_of_billed": 0.0795,
+  "by_type": {
+    "DUPLICATE": {
+      "invoices": 4,
+      "usd": 108089.58
+    },
+    "MATH_ERROR": {
+      "invoices": 2,
+      "usd": 880.0
+    },
+    "POST_EXPIRY": {
+      "invoices": 5,
+      "usd": 37462.27
+    },
+    "QTY_OVER": {
+      "invoices": 4,
+      "usd": 7392.12
+    },
+    "RATE_OVER": {
+      "invoices": 7,
+      "usd": 6348.15
+    },
+    "SURCHARGE": {
+      "invoices": 6,
+      "usd": 1888.0
+    }
+  },
+  "renewals": {
+    "ACT_NOW": 6,
+    "LOCKED_IN": 5,
+    "NONE": 19
+  },
+  "renewal_annual_value_act_now": 964995.16,
+  "renewal_annual_value_locked_in": 630804.96,
+  "as_of_date": "2026-11-11",
+  "seed": 20261111
+}
